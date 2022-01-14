@@ -1,0 +1,1372 @@
+﻿nid,source,id,vis,data_binding
+1,datavizproject,Skærmbillede-2016-02-02-kl.-16.06.19.png,number,semantics – categorical
+2,datavizproject,Skærmbillede-2016-02-02-kl.-16.11.19.png,number,semantics – categorical
+3,datavizproject,Skærmbillede-2016-02-02-kl.-16.20.27.png,number,semantics – categorical
+4,datavizproject,Skærmbillede-2016-02-02-kl.-16.34.00.png,number,semantics – categorical
+5,datavizproject,Skærmbillede-2016-02-02-kl.-16.35.03.png,number,semantics – categorical
+6,datavizproject,Skærmbillede-2016-02-02-kl.-16.36.08.png,number,semantics – categorical
+7,datavizproject,Skærmbillede-2016-02-03-kl.-13.24.54.png,number,semantics – categorical
+8,datavizproject,Skærmbillede-2016-02-04-kl.-10.39.19.png,number,semantics – categorical
+9,datavizproject,Skærmbillede-2016-02-04-kl.-11.35.51.png,number,semantics – categorical
+10,datavizproject,5083416128_fece575c4c_o-scaled.jpg,bar chart,height - numerical (quantity)
+11,datavizproject,Screen-Shot-2016-05-19-at-16.34.04.png,bar chart,height - numerical (quantity)
+12,datavizproject,Screen-Shot-2016-05-19-at-16.42.29.png,bar chart,height - numerical (quantity)
+13,datavizproject,Skærmbillede-2016-02-10-kl.-11.15.15.png,bar chart,height - numerical (quantity)
+14,datavizproject,Skærmbillede-2017-09-04-kl.-15.07.39.png,bar chart,height - numerical (quantity)
+15,datavizproject,Skærmbillede-2017-10-06-kl.-12.40.01.png,bar chart,height - numerical (quantity)
+16,datavizproject,fc85c722282311.56045d0ab6940.jpg,block chart,height + fill color - numerical (percentage)
+17,datavizproject,page-1.jpg,block chart,height + fill color - numerical (percentage)
+18,datavizproject,Skærmbillede-2017-02-23-kl.-14.33.47.png,block chart,height + fill color - numerical (percentage)
+19,datavizproject,Skærmbillede-2017-02-23-kl.-16.25.37.png,block chart,height + fill color - numerical (percentage)
+20,datavizproject,Skærmbillede-2017-02-23-kl.-16.36.42.png,block chart,height + fill color - numerical (percentage)
+21,datavizproject,Skærmbillede-2017-02-23-kl.-16.38.30.png,block chart,height + fill color - numerical (percentage)
+22,datavizproject,Skærmbillede-2017-09-04-kl.-15.53.21.png,bar chart,height + fill color - numerical (percentage)
+23,datavizproject,Skærmbillede-2017-09-04-kl.-16.14.24.png,bar chart,height + fill color - numerical (percentage)
+24,datavizproject,5_aotw_1-300x300.jpg,block chart,height + fill color - numerical (percentage)
+25,datavizproject,9635744385_7e992fec0f_b.jpg,block chart,height + fill color - numerical (percentage)
+26,datavizproject,open-uri20140702-32143-he9e6d.jpeg,block chart,height + fill color - numerical (percentage)
+27,datavizproject,Screen-Shot-2015-06-16-at-10.21.30-AM.png,block chart,height + fill color - numerical (percentage)
+28,datavizproject,Screen-Shot-2015-11-02-at-17.14.32.png,block chart,height + fill color - numerical (percentage)
+29,datavizproject,Skærmbillede-2016-01-21-kl.-16.09.24.png,block chart,height + fill color - numerical (percentage)
+30,datavizproject,Skærmbillede-2016-01-23-kl.-17.42.34.png,block chart,height + fill color - numerical (percentage)
+31,datavizproject,Skærmbillede-2016-01-24-kl.-21.46.03.png,block chart,height + fill color - numerical (percentage)
+32,datavizproject,Skærmbillede-2017-09-04-kl.-15.15.20.png,block chart,height + fill color - numerical (percentage)
+33,datavizproject,Yes-Penis-Size-Does-Matter.jpg,block chart,height + fill color - numerical (percentage)
+34,datavizproject,Skærmbillede-2016-01-22-kl.-15.44.09-300x300.png,block chart,unit + fill color – numerical (Quantity) +categorical
+35,datavizproject,Skærmbillede-2016-01-24-kl.-21.49.21-300x300.png,block chart,unit + fill color – numerical (Quantity) +categorical
+36,datavizproject,Skærmbillede-2016-02-02-kl.-16.08.09-300x300.png,area,area - numerical (quantity)
+37,datavizproject,Skærmbillede-2016-02-02-kl.-16.32.06.png,area,area - numerical (quantity)
+38,datavizproject,Skærmbillede-2016-02-02-kl.-16.33.10.png,area,area - numerical (quantity)
+39,datavizproject,Skærmbillede-2016-02-10-kl.-11.17.34.png,area,area - numerical (quantity)
+40,datavizproject,Skærmbillede-2017-09-04-kl.-15.14.02.png,area,area - numerical (quantity)
+41,Anthropographics,an-incalculable-loss.png,block chart,unit + fill color – numerical (Quantity)
+42,Anthropographics,australia-as-100.png,block chart,unit + fill color – numerical (Quantity)
+43,Anthropographics,billionaire-index.png,number,semantics – categorical
+44,Anthropographics,celebrity-height.png,bar chart,height - numerical (quantity)
+45,Anthropographics,covid19-italy-reuters.png,tree and graph,unit + fill color – numerical (Quantity)
+46,Anthropographics,covid19-korea-reuters.png,block chart,unit + fill color – numerical (Quantity)
+47,Anthropographics,criancas-adotadas.png,bar chart,height - numerical (quantity)
+48,Anthropographics,deaths-at-the-borders.png,block chart,unit + fill color – numerical (Quantity) +categorical
+49,Anthropographics,displaced-people-worldwide.png,block chart,unit + fill color – numerical (Quantity) +categorical
+50,Anthropographics,eye-for-an-eye.png,block chart,unit + fill color – numerical (Quantity) +categorical
+51,Anthropographics,fallen-world-war.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+52,Anthropographics,feel-about-ebola.png,block chart,unit + fill color – numerical (Quantity)
+53,Anthropographics,got-characters.png,point,semantics – categorical
+54,Anthropographics,great-war.png,block chart,unit + fill color – numerical (Quantity) +categorical
+55,Anthropographics,history-bruce-springsteen.png,line chart,semantics – categorical
+56,Anthropographics,how-many-households.png,number,semantics – categorical
+57,Anthropographics,how-trump-happened.png,block chart,unit + fill color – numerical (Quantity) +categorical
+58,Anthropographics,if-only-100-twitter.png,block chart,unit + fill color – numerical (Quantity) +categorical
+59,Anthropographics,if-world-were-100.png,block chart,unit + fill color – numerical (Quantity) +categorical
+60,Anthropographics,impoverished-states.png,block chart,unit + fill color – numerical (Quantity) +categorical
+61,Anthropographics,lei60.png,bar chart,semantics – categorical
+62,Anthropographics,march-madness.png,bar chart,height - numerical (quantity)
+63,Anthropographics,mass-shooting-america.png,block chart,unit + fill color – numerical (Quantity)
+64,Anthropographics,north-south-korea.png,block chart,unit + fill color – numerical (Quantity) +categorical
+65,Anthropographics,number-unique-words.png,point,semantics – categorical
+66,Anthropographics,old-charts-people.png,block chart,unit + fill color – numerical (Quantity) +categorical
+67,Anthropographics,people-killed-since-newton.png,block chart,unit + fill color – numerical (Quantity) +categorical
+68,Anthropographics,poverty-in-syria.png,block chart,unit + fill color – numerical (percentage)
+69,Anthropographics,quick-facts.png,block chart,unit + fill color – numerical (percentage)
+70,Anthropographics,seven-billion-world.png,block chart,unit + fill color – numerical (Quantity) +categorical
+71,Anthropographics,sexexperience.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+72,Anthropographics,titanic-dots.png,block chart,unit + fill color – numerical (Quantity) +categorical
+73,Anthropographics,usa-gb-world.png,block chart,unit + fill color – numerical (Quantity) +categorical
+74,Anthropographics,women-dataviz.png,block chart,semantics – categorical
+75,dataVideos,微信截图_20210518231545.png,number,semantics – categorical
+76,dataVideos,微信截图_20210518231559.png,number,semantics – categorical
+77,dataVideos,微信截图_20210518231618.png,bar chart,unit + fill color – numerical (Quantity)
+78,dataVideos,微信截图_20210518231630.png,block chart,unit + fill color – numerical (Quantity) +categorical
+79,dataVideos,微信截图_20210518231650.png,number,semantics – categorical
+80,dataVideos,微信截图_20210518231727.png,number,semantics – categorical
+81,dataVideos,微信截图_20210518231739.png,bar chart,height - numerical (quantity)
+82,dataVideos,微信截图_20210518231803.png,bar chart,height + fill color - numerical (percentage)
+83,dataVideos,微信截图_20210518231816.png,block chart,unit + fill color – numerical (Quantity)
+84,dataVideos,微信截图_20210518231843.png,bar chart,unit + fill color – numerical (Quantity)
+85,dataVideos,微信截图_20210518231857.png,block chart,unit + fill color – numerical (Quantity) +categorical
+86,google infographic,88303104-16ab-48b3-ad18-e7940d4452f4.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+87,google infographic,a922e7a3-fd34-407f-a9df-062f30446ffd.png,block chart,unit + fill color – numerical (Quantity) +categorical
+88,google infographic,apps.22757.3d54cdd7-1680-4c6f-b851-7453cb200391.dd00c82a-3a41-4cf2-a577-8af41fb39c73.2945229a-4d1c-4273-970e-1d2280dc8a49.png,block chart,height + fill color - numerical (percentage)
+89,google infographic,breast cancer infographic teaser.png,block chart,unit + fill color – numerical (percentage)
+90,google infographic,images (1).png,block chart,unit + fill color – numerical (Quantity) +categorical
+91,google infographic,images (2).png,block chart,unit + fill color – numerical (Quantity) +categorical
+92,google infographic,images.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+93,google infographic,immunization-infographic.jpg,block chart,unit + fill color – numerical (percentage)
+94,google infographic,i_Mobile-Operating-System-Market-Share-Pictogram_full.jpg,number,semantics – categorical
+95,google infographic,MPI_2019_1-3_billion_people_infgr.png,block chart,unit + fill color – numerical (percentage)
+96,google infographic,Quocirca_PrintSecurity2019_Landscape.png,block chart,unit + fill color – numerical (percentage)
+97,google infographic,TIM截图20200604131141.png,number,semantics – categorical
+98,google infographic,TIM截图20200604131314.png,block chart,unit + fill color – numerical (Quantity) +categorical
+99,google infographic,TIM截图20200604131419.png,bar chart,height + fill color - numerical (percentage)
+100,google infographic,TIM截图20200604131449.png,number,semantics – categorical
+101,google infographic,TIM截图20200604131516.png,number,semantics – categorical
+102,google infographic,TIM截图20200604131531.png,number,semantics – categorical
+103,google infographic,TIM截图20200604131558.png,number,semantics – categorical
+104,google infographic,TIM截图20200604131611.png,bar chart,area - numerical (quantity)
+105,google infographic,TIM截图20200604131618.png,block chart,unit + fill color – numerical (Quantity) +categorical
+106,google infographic,TIM截图20200604131629.png,block chart,unit + fill color – numerical (percentage)
+107,google infographic,TIM截图20200604131637.png,block chart,unit + fill color – numerical (percentage)
+108,google infographic,TIM截图20200604131653.png,block chart,unit + fill color – numerical (Quantity)
+109,google infographic,TIM截图20200604131716.png,block chart,height + fill color - numerical (percentage)
+110,google infographic,TIM截图20200604131722.png,area,area - numerical (quantity)
+111,google infographic,TIM截图20200604131731.png,bar chart,height + fill color - numerical (percentage)
+112,google infographic,TIM截图20200604131737.png,bar chart,area - numerical (quantity)
+113,google infographic,TIM截图20200604131756.png,number,semantics – categorical
+114,google infographic,TIM截图20200604131807.png,number,semantics – categorical
+115,google infographic,TIM截图20200604131819.png,number,semantics – categorical
+116,google infographic,TIM截图20200604131829.png,block chart,unit + fill color – numerical (Quantity) +categorical
+117,google infographic,TIM截图20200604131837.png,number,semantics – categorical
+118,google infographic,TIM截图20200604131853.png,number,semantics – categorical
+119,google infographic,TIM截图20200604131902.png,number,semantics – categorical
+120,google infographic,TIM截图20200604131913.png,block chart,unit + fill color – numerical (percentage)
+121,google infographic,TIM截图20200604131944.png,block chart,unit + fill color – numerical (percentage)
+122,google infographic,TIM截图20200604132029.png,block chart,unit + fill color – numerical (percentage)
+123,google infographic,TIM截图20200604132035.png,block chart,unit + fill color – numerical (percentage)
+124,google infographic,TIM截图20200604132044.png,number,semantics – categorical
+125,google infographic,TIM截图20200604132059.png,area,area - numerical (quantity)
+126,google infographic,TIM截图20200604132117.png,line chart,unit + fill color – numerical (Quantity)
+127,google infographic,TIM截图20200604132133.png,number,semantics – categorical
+128,google infographic,TIM截图20200604132147.png,number,semantics – categorical
+129,google infographic,TIM截图20200604132159.png,number,semantics – categorical
+130,google infographic,TIM截图20200604132216.png,number,semantics – categorical
+131,google infographic,TIM截图20200604132229.png,bar chart,height + fill color - numerical (percentage)
+132,google infographic,TIM截图20200604132237.png,block chart,unit + fill color – numerical (Quantity)
+133,google infographic,TIM截图20200604132251.png,number,semantics – categorical
+134,google infographic,TIM截图20200604132314.png,bar chart,height - numerical (quantity)
+135,google infographic,TIM截图20200604132320.png,bar chart,height + fill color - numerical (percentage)
+136,google infographic,TIM截图20200604132338.png,block chart,unit + fill color – numerical (percentage)
+137,google infographic,TIM截图20200604132347.png,block chart,unit + fill color – numerical (percentage)
+138,google infographic,TIM截图20200604132407.png,block chart,unit + fill color – numerical (Quantity) +categorical
+139,google infographic,TIM截图20200604132417.png,number,semantics – categorical
+140,google infographic,TIM截图20200604132422.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+141,google infographic,TIM截图20200604132426.png,number,semantics – categorical
+142,google infographic,TIM截图20200604132432.png,bar chart,height - numerical (quantity)
+143,google infographic,TIM截图20200604132500.png,circle,semantics – categorical
+144,google infographic,TIM截图20200604132515.png,circle,semantics – categorical
+145,google infographic,TIM截图20200604132524.png,number,semantics – categorical
+146,google infographic,TIM截图20200604132532.png,bar chart,height - numerical (quantity)
+147,google infographic,TIM截图20200604132539.png,bar chart,height - numerical (quantity)
+148,google infographic,TIM截图20200604132554.png,bar chart,height - numerical (quantity)
+149,google infographic,TIM截图20200604132621.png,number,semantics – categorical
+150,google infographic,TIM截图20200604132725.png,number,semantics – categorical
+151,google infographic,TIM截图20200604132730.png,block chart,unit + fill color – numerical (percentage)
+152,google infographic,TIM截图20200604132808.png,number,semantics – categorical
+153,google infographic,TIM截图20200604132834.png,number,semantics – categorical
+154,google infographic,TIM截图20200604132839.png,bar chart,semantics – categorical
+155,google infographic,TIM截图20200604132845.png,bar chart,semantics – categorical
+156,google infographic,TIM截图20200604132856.png,bar chart,semantics – categorical
+157,google infographic,TIM截图20200604132900.png,bar chart,semantics – categorical
+158,google infographic,TIM截图20200604132903.png,circle,semantics – categorical
+159,google infographic,TIM截图20200604132923.png,block chart,height + fill color - numerical (percentage)
+160,google infographic,TIM截图20200604132928.png,circle,semantics – categorical
+161,google infographic,TIM截图20200604132932.png,block chart,height - numerical (quantity)
+162,google infographic,TIM截图20200604132938.png,block chart,unit + fill color – numerical (Quantity) +categorical
+163,google infographic,TIM截图20200604133040.png,number,semantics – categorical
+164,google infographic,TIM截图20200604133104.png,block chart,height + fill color - numerical (percentage)
+165,google infographic,TIM截图20200604133108.png,block chart,unit + fill color – numerical (Quantity) +categorical
+166,google infographic,TIM截图20200604133114.png,number,semantics – categorical
+167,google infographic,TIM截图20200604133120.png,block chart,height + fill color - numerical (percentage)
+168,google infographic,TIM截图20200604133142.png,number,semantics – categorical
+169,google infographic,TIM截图20200604133147.png,number,semantics – categorical
+170,google infographic,TIM截图20200604133201.png,number,semantics – categorical
+171,google infographic,TIM截图20200604133229.png,block chart,unit + fill color – numerical (Quantity)
+172,google infographic,unnamed.jpg,area,unit + fill color – numerical (Quantity) +categorical
+173,google pictogram,1_eigiKmIdpYd2HXywnKugSA.png,block chart,unit + fill color – numerical (Quantity)
+174,google pictogram,2-Figure2-1.png,block chart,unit + fill color – numerical (Quantity)
+175,google pictogram,800_3516739_6d6b58f0a0100bb7dd2c557951814b7318f5e1ba-1.jpg,bar chart,semantics – categorical
+176,google pictogram,800_3516739_6d6b58f0a0100bb7dd2c557951814b7318f5e1ba-2.jpg,block chart,height + fill color - numerical (percentage)
+177,google pictogram,800_3516739_6d6b58f0a0100bb7dd2c557951814b7318f5e1ba-3.jpg,bar chart,height + fill color - numerical (percentage)
+178,google pictogram,800_3516739_6d6b58f0a0100bb7dd2c557951814b7318f5e1ba-4.jpg,line chart,semantics – categorical
+179,google pictogram,800_3516739_6d6b58f0a0100bb7dd2c557951814b7318f5e1ba-5.jpg,circle,semantics – categorical
+180,google pictogram,800_3516739_6d6b58f0a0100bb7dd2c557951814b7318f5e1ba-6.jpg,number,semantics – categorical
+181,google pictogram,800_3516739_6d6b58f0a0100bb7dd2c557951814b7318f5e1ba-7.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+182,google pictogram,8232ccb1-6102-11e2-9a53-12313b016471.2be59abc-0da2-4565-8861-eba6329f18b5.jpg,bar chart,unit + fill color – numerical (Quantity)
+183,google pictogram,bd00a3cc3d1dab11aa996838143611fc.png,block chart,unit + fill color – numerical (Quantity) +categorical
+184,google pictogram,chase_population_gettingOlder.jpg,block chart,unit + fill color – numerical (Quantity)
+185,google pictogram,collection-infographic-people-elements-businessvector-260nw-592941407.webp,number,semantics – categorical
+186,google pictogram,edcfb091817facca709262a0eed7698f-1.jpg,line chart,semantics – categorical
+187,google pictogram,edcfb091817facca709262a0eed7698f-2.jpg,bar chart,semantics – categorical
+188,google pictogram,edcfb091817facca709262a0eed7698f-3.jpg,block chart,unit + fill color – numerical (percentage)
+189,google pictogram,edcfb091817facca709262a0eed7698f-4.jpg,circle,semantics – categorical
+190,google pictogram,edcfb091817facca709262a0eed7698f-5.jpg,bar chart,area - numerical (quantity)
+191,google pictogram,edcfb091817facca709262a0eed7698f-6.jpg,number,semantics – categorical
+192,google pictogram,edcfb091817facca709262a0eed7698f-7.jpg,block chart,height + fill color - numerical (percentage)
+193,google pictogram,edcfb091817facca709262a0eed7698f-8.jpg,number,semantics – categorical
+194,google pictogram,edcfb091817facca709262a0eed7698f-9.jpg,number,semantics – categorical
+195,google pictogram,figure2.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+196,google pictogram,How-to-Create-Pictographs-and-Icon-Arrays-in-Visme-6.jpg,block chart,height + fill color - numerical (percentage)
+197,google pictogram,infographic和象简历的-33622700.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+198,google pictogram,i_Emoji-Usage-Among-Men-and-Women-Pictogram_full.jpg,bar chart,unit + fill color – numerical (Quantity) +categorical
+199,google pictogram,i_Football-Players-with-the-most-Instagram-Followers-Pictogram_full.jpg,bar chart,height + fill color - numerical (percentage)
+200,google pictogram,i_Freelance-Employer-Locations-Pictograms_full.jpg,block chart,unit + fill color – numerical (percentage)
+201,google pictogram,NZ_GraphicGuidelines_Graph13.gif,block chart,unit + fill color – numerical (Quantity)
+202,google pictogram,pictogram (1).png,block chart,unit + fill color – numerical (Quantity)
+203,google pictogram,pictogram.png,block chart,unit + fill color – numerical (Quantity)
+204,google pictogram,pictograph-l.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+205,google pictogram,unnamed.png,block chart,unit + fill color – numerical (Quantity) +categorical
+206,google pictogram,using-pictogram-charts.png,block chart,unit + fill color – numerical (Quantity) +categorical
+207,google pictogram,W1Yer.png,block chart,unit + fill color – numerical (Quantity) +categorical
+208,eagereyes & flowingdata,11-War-Funding.png,bar chart,unit + fill color – numerical (Quantity)
+209,eagereyes & flowingdata,2016_election_map_2x.png,map,unit + fill color – numerical (Quantity) +categorical
+210,eagereyes & flowingdata,aircrash-seat-illo-08071-620x558.gif,block chart,unit + fill color – numerical (Quantity) +categorical
+211,eagereyes & flowingdata,All-in-the-Family-Tree.png,block chart,unit + fill color – numerical (Quantity) +categorical
+212,eagereyes & flowingdata,All-the-volcano-eruptions-768x856.png,grid and matrix,height + fill color - numerical (percentage)
+213,eagereyes & flowingdata,archer-vis.jpg,point,semantics – categorical
+214,eagereyes & flowingdata,Axios_trump_twitter_attacks.PNG-nggid041282-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.PNG,tree and graph,semantics – categorical
+215,eagereyes & flowingdata,biowaste_greecut_sankey_germany.PNG-nggid041115-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.PNG,tree and graph,semantics – categorical
+216,eagereyes & flowingdata,Brain-size.png,bar chart,semantics – categorical
+217,eagereyes & flowingdata,budget-cuts-210x250.png,bar chart,semantics – categorical
+218,eagereyes & flowingdata,Deaths-in-Gaza-960x483.png,block chart,unit + fill color – numerical (Quantity) +categorical
+219,eagereyes & flowingdata,Dinosaurs-versus-airplane-620x417.gif,bar chart,semantics – categorical
+220,eagereyes & flowingdata,Drawing-logos-from-memory-e1507141998998-768x693.png,point,semantics – categorical
+221,eagereyes & flowingdata,drone-victims.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+222,eagereyes & flowingdata,Evolution-in-design.jpg,bar chart,height - numerical (quantity)
+223,eagereyes & flowingdata,FacialHairWmaskLG.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+224,eagereyes & flowingdata,food-stamps-960x768.jpg,bar chart,height - numerical (quantity)
+225,eagereyes & flowingdata,French-fry-power-rankings.jpg,point,semantics – categorical
+226,eagereyes & flowingdata,Game-of-Thrones-deaths-1090x589.png,block chart,unit + fill color – numerical (Quantity) +categorical
+227,eagereyes & flowingdata,Gerrymandering-comic-768x396.png,tree and graph,unit + fill color – numerical (Quantity) +categorical
+228,eagereyes & flowingdata,homework-featured-768x409.png,block chart,unit + fill color – numerical (Quantity) +categorical
+229,eagereyes & flowingdata,image.png,bar chart,height - numerical (quantity)
+230,eagereyes & flowingdata,ipad-expanded-battery.jpg,bar chart,height - numerical (quantity)
+231,eagereyes & flowingdata,Is-Barack-Obama-the-President-960x737.png,block chart,unit + fill color – numerical (Quantity) +categorical
+232,eagereyes & flowingdata,isotype-comparison.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+233,eagereyes & flowingdata,isotype-only-an-ocean-10.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+234,eagereyes & flowingdata,isotype-only-an-ocean-11.jpg,tree and graph,unit + fill color – numerical (Quantity) +categorical
+235,eagereyes & flowingdata,isotype-only-an-ocean-13.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+236,eagereyes & flowingdata,isotype-only-an-ocean-15.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+237,eagereyes & flowingdata,isotype-only-an-ocean-16.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+238,eagereyes & flowingdata,isotype-only-an-ocean-17.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+239,eagereyes & flowingdata,isotype-only-an-ocean-7.jpg,bar chart,height - numerical (quantity)
+240,eagereyes & flowingdata,Kevin-Durant-shoe-falloff-768x333.png,block chart,unit + fill color – numerical (Quantity) +categorical
+241,eagereyes & flowingdata,mackenzie-isotype1.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+242,eagereyes & flowingdata,mackenzie-isotype3.jpg,map,unit + fill color – numerical (Quantity) +categorical
+243,eagereyes & flowingdata,mackenzie-isotype4.jpg,block chart,unit + fill color – numerical (Quantity)
+244,eagereyes & flowingdata,memory-monster.jpg,bar chart,semantics – categorical
+245,eagereyes & flowingdata,misfit-april.png,number,semantics – categorical
+246,eagereyes & flowingdata,Predicting-mass-shooting.png,block chart,unit + fill color – numerical (Quantity)
+247,eagereyes & flowingdata,Probability-of-breakup-1090x753.png,block chart,unit + fill color – numerical (percentage)
+248,eagereyes & flowingdata,Social-media-vs-real-life-Democrats-1090x538.png,block chart,unit + fill color – numerical (percentage)
+249,eagereyes & flowingdata,Speaking-the-world.jpg,block chart,unit + fill color – numerical (Quantity)
+250,eagereyes & flowingdata,Superbowls-e1453420405721.png,block chart,unit + fill color – numerical (percentage)
+251,eagereyes & flowingdata,testing-for-antibodies.png,block chart,unit + fill color – numerical (Quantity)
+252,eagereyes & flowingdata,Timeline-of-Earth-1090x856.png,number,semantics – categorical
+253,eagereyes & flowingdata,TIM截图20200615210959.png,block chart,unit + fill color – numerical (Quantity)
+254,eagereyes & flowingdata,TIM截图20200616194801.png,bar chart,height - numerical (quantity)
+255,eagereyes & flowingdata,TIM截图20200618001730.png,block chart,unit + fill color – numerical (Quantity) +categorical
+256,eagereyes & flowingdata,TIM截图20200618001803.png,bar chart,area - numerical (quantity)
+257,eagereyes & flowingdata,TIM截图20200618001859.png,circle,area - numerical (quantity)
+258,eagereyes & flowingdata,TIM截图20200618001925.png,block chart,unit + fill color – numerical (Quantity)
+259,eagereyes & flowingdata,TIM截图20200618001935.png,block chart,unit + fill color – numerical (Quantity)
+260,eagereyes & flowingdata,TIM截图20200618001941.png,block chart,unit + fill color – numerical (Quantity)
+261,eagereyes & flowingdata,TIM截图20200618001957.png,block chart,unit + fill color – numerical (Quantity) +categorical
+262,eagereyes & flowingdata,TIM截图20200618002030.png,block chart,unit + fill color – numerical (percentage)
+263,eagereyes & flowingdata,TIM截图20200618002037.png,block chart,unit + fill color – numerical (percentage)
+264,eagereyes & flowingdata,TIM截图20200618002101.png,circle,unit + fill color – numerical (Quantity)
+265,eagereyes & flowingdata,TIM截图20200618002432.png,bar chart,height - numerical (quantity)
+266,eagereyes & flowingdata,TIM截图20200618002440.png,bar chart,height - numerical (quantity)
+267,eagereyes & flowingdata,TIM截图20200618002451.png,bar chart,height - numerical (quantity)
+268,eagereyes & flowingdata,TIM截图20200618002500.png,bar chart,height - numerical (quantity)
+269,eagereyes & flowingdata,TIM截图20200618002611.png,bar chart,semantics – categorical
+270,eagereyes & flowingdata,TIM截图20200618002739.png,bar chart,height - numerical (quantity)
+271,eagereyes & flowingdata,TIM截图20200618002745.png,block chart,unit + fill color – numerical (Quantity)
+272,eagereyes & flowingdata,TIM截图20200618002807.png,bar chart,area - numerical (quantity)
+273,eagereyes & flowingdata,TIM截图20200618002816.png,bar chart,height - numerical (quantity)
+274,eagereyes & flowingdata,TIM截图20200618002943.png,bar chart,semantics – categorical
+275,eagereyes & flowingdata,TIM截图20200618003102.png,block chart,unit + fill color – numerical (Quantity)
+276,eagereyes & flowingdata,TIM截图20200618003259.png,block chart,height - numerical (quantity)
+277,eagereyes & flowingdata,TIM截图20200618003311.png,block chart,height + fill color - numerical (percentage)
+278,eagereyes & flowingdata,TIM截图20200618003317.png,block chart,height - numerical (quantity)
+279,eagereyes & flowingdata,TIM截图20200618003324.png,block chart,height - numerical (quantity)
+280,eagereyes & flowingdata,TIM截图20200618003329.png,block chart,height + fill color - numerical (percentage)
+281,eagereyes & flowingdata,TIM截图20200618003335.png,block chart,height + fill color - numerical (percentage)
+282,eagereyes & flowingdata,TIM截图20200618003341.png,circle,area - numerical (quantity)
+283,eagereyes & flowingdata,TIM截图20200618003404.png,block chart,unit + fill color – numerical (Quantity)
+284,eagereyes & flowingdata,TIM截图20200618003534.png,block chart,unit + fill color – numerical (Quantity)
+285,eagereyes & flowingdata,TIM截图20200618003539.png,block chart,unit + fill color – numerical (Quantity)
+286,eagereyes & flowingdata,TIM截图20200618003543.png,block chart,unit + fill color – numerical (Quantity)
+287,eagereyes & flowingdata,Toilet-paper-truth.png,block chart,height - numerical (quantity)
+288,eagereyes & flowingdata,trans0209gettingaroundrev-1-768x498.jpg,block chart,unit + fill color – numerical (Quantity)
+289,eagereyes & flowingdata,Walking-Dead-kills-960x683.png,block chart,unit + fill color – numerical (Quantity) +categorical
+290,eagereyes & flowingdata,Work4All-01.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+291,eagereyes & flowingdata,Work4All-02.jpg,block chart,unit + fill color – numerical (percentage)
+292,eagereyes & flowingdata,Work4All-04.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+293,eagereyes & flowingdata,Work4All-05.jpg,block chart,unit + fill color – numerical (Quantity)
+294,eagereyes & flowingdata,Work4All-06.jpg,block chart,unit + fill color – numerical (percentage)
+295,eagereyes & flowingdata,Work4All-09.jpg,block chart,unit + fill color – numerical (Quantity)
+296,eagereyes & flowingdata,Work4All-12.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+297,eagereyes & flowingdata,Work4All-13.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+298,eagereyes & flowingdata,Work4All-14.jpg,map,unit + fill color – numerical (percentage)
+299,eagereyes & flowingdata,Work4All-teaser.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+300,eagereyes & flowingdata,Working-in-America-all-years.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+301,eagereyes & flowingdata,Your-coming-tax-cut-or-not.png,block chart,unit + fill color – numerical (Quantity)
+302,emoVis-8,pic896.png,block chart,height + fill color - numerical (percentage)
+303,emoVis-8,pic900.png,bar chart,height - numerical (quantity)
+304,emoVis-8,pic906.png,tree and graph,unit + fill color – numerical (Quantity) +categorical
+305,emoVis-8,pic926.png,bar chart,height - numerical (quantity)
+306,emoVis-8,pic954.png,bar chart,height - numerical (quantity)
+307,emoVis-8,pic957.png,line chart,semantics – categorical
+308,emoVis-8,pic967.png,bar chart,unit + fill color – numerical (percentage)
+309,emoVis-8,pic975.png,bar chart,semantics – categorical
+310,emoVis-8,TIM截图20200630160433.png,bar chart,unit + fill color – numerical (Quantity)
+311,emoVis-8,TIM截图20200630160546.png,bar chart,height - numerical (quantity)
+312,emoVis-8,TIM截图20200630160644.png,block chart,unit + fill color – numerical (Quantity)
+313,emoVis-8,TIM截图20200630160649.png,block chart,unit + fill color – numerical (Quantity)
+314,emoVis-8,TIM截图20200630160707.png,block chart,unit + fill color – numerical (percentage)
+315,emoVis-8,TIM截图20200630160719.png,block chart,unit + fill color – numerical (Quantity)
+316,emoVis-8,TIM截图20200630160726.png,block chart,height + fill color - numerical (percentage)
+317,emoVis-8,TIM截图20200630160748.png,bar chart,height - numerical (quantity)
+318,emoVis-8,TIM截图20200630160759.png,bar chart,area - numerical (quantity)
+319,emoVis-8,TIM截图20200630160821.png,block chart,unit + fill color – numerical (Quantity)
+320,emoVis-8,TIM截图20200630160833.png,bar chart,area - numerical (quantity)
+321,emoVis-8,TIM截图20200630160842.png,block chart,unit + fill color – numerical (percentage)
+322,emoVis-8,TIM截图20200630161116.png,block chart,height + fill color - numerical (percentage)
+323,emoVis-8,TIM截图20200630161122.png,block chart,unit + fill color – numerical (percentage)
+324,emoVis-8,TIM截图20200630161128.png,number,semantics – categorical
+325,emoVis-8,TIM截图20200630161136.png,block chart,height + fill color - numerical (percentage)
+326,emoVis-8,TIM截图20200630161146.png,block chart,unit + fill color – numerical (percentage)
+327,emoVis-8,TIM截图20200630161152.png,block chart,height + fill color - numerical (percentage)
+328,emoVis-8,TIM截图20200630161159.png,block chart,height + fill color - numerical (percentage)
+329,emoVis-8,TIM截图20200630161205.png,block chart,height + fill color - numerical (percentage)
+330,emoVis-8,TIM截图20200630161233.png,number,semantics – categorical
+331,emoVis-8,TIM截图20200630161238.png,block chart,unit + fill color – numerical (percentage)
+332,emoVis-8,TIM截图20200630161246.png,block chart,unit + fill color – numerical (percentage)
+333,emoVis-8,TIM截图20200630161731.png,bar chart,semantics – categorical
+334,emoVis-8,TIM截图20200630161739.png,block chart,semantics – categorical
+335,emoVis-8,TIM截图20200630161757.png,circle,semantics – categorical
+336,emoVis-8,TIM截图20200630161828.png,area,area - numerical (quantity)
+337,emoVis-8,TIM截图20200630161837.png,bar chart,semantics – categorical
+338,emoVis-8,TIM截图20200630161855.png,bar chart,semantics – categorical
+339,emoVis-8,TIM截图20200630161932.png,block chart,unit + fill color – numerical (Quantity)
+340,emoVis-8,TIM截图20200630161946.png,block chart,unit + fill color – numerical (Quantity)
+341,emoVis-8,TIM截图20200630162010.png,bar chart,height - numerical (quantity)
+342,emoVis-8,TIM截图20200630162025.png,block chart,unit + fill color – numerical (Quantity) +categorical
+343,emoVis-8,TIM截图20200630162039.png,block chart,unit + fill color – numerical (Quantity)
+344,emoVis-8,TIM截图20200630162212.png,block chart,unit + fill color – numerical (Quantity) +categorical
+345,emoVis-8,TIM截图20200630162219.png,block chart,unit + fill color – numerical (Quantity) +categorical
+346,emoVis-8,TIM截图20200630162226.png,block chart,unit + fill color – numerical (Quantity) +categorical
+347,emoVis-8,TIM截图20200630162238.png,block chart,unit + fill color – numerical (Quantity) +categorical
+348,emoVis-8,TIM截图20200630162245.png,block chart,unit + fill color – numerical (Quantity) +categorical
+349,emoVis-8,TIM截图20200630162254.png,block chart,unit + fill color – numerical (Quantity) +categorical
+350,emoVis-8,TIM截图20200630162303.png,block chart,unit + fill color – numerical (Quantity) +categorical
+351,emoVis-8,TIM截图20200630162456.png,block chart,unit + fill color – numerical (Quantity)
+352,emoVis-8,TIM截图20200630162607.png,circle,unit + fill color – numerical (Quantity)
+353,emoVis-8,TIM截图20200630162634.png,block chart,unit + fill color – numerical (Quantity) +categorical
+354,emoVis-8,TIM截图20200630162759.png,block chart,unit + fill color – numerical (Quantity)
+355,emoVis-8,TIM截图20200630162904.png,block chart,height + fill color - numerical (percentage)
+356,emoVis-8,TIM截图20200630162908.png,bar chart,area - numerical (quantity)
+357,emoVis-8,TIM截图20200630162918.png,block chart,height + fill color - numerical (percentage)
+358,emoVis-8,TIM截图20200630162957.png,block chart,height + fill color - numerical (percentage)
+359,emoVis-8,TIM截图20200630163020.png,block chart,unit + fill color – numerical (Quantity)
+360,emoVis-8,TIM截图20200630163254.png,block chart,unit + fill color – numerical (Quantity) +categorical
+361,emoVis-8,TIM截图20200630163409.png,block chart,unit + fill color – numerical (Quantity) +categorical
+362,emoVis-8,TIM截图20200630163415.png,bar chart,height - numerical (quantity)
+363,emoVis-8,TIM截图20200630163422.png,circle,area - numerical (quantity)
+364,emoVis-8,TIM截图20200630163509.png,bar chart,semantics – categorical
+365,emoVis-8,TIM截图20200630163524.png,bar chart,semantics – categorical
+366,emoVis-8,TIM截图20200630163611.png,block chart,unit + fill color – numerical (Quantity) +categorical
+367,emoVis-8,TIM截图20200630163646.png,bar chart,area - numerical (quantity)
+368,emoVis-8,TIM截图20200630163741.png,bar chart,semantics – categorical
+369,emoVis-8,TIM截图20200630163755.png,circle,semantics – categorical
+370,emoVis-8,TIM截图20200630163831.png,bar chart,semantics – categorical
+371,emoVis-8,TIM截图20200630163915.png,block chart,unit + fill color – numerical (Quantity) +categorical
+372,emoVis-8,TIM截图20200630163931.png,bar chart,unit + fill color – numerical (Quantity)
+373,emoVis-8,TIM截图20200630163957.png,bar chart,unit + fill color – numerical (Quantity)
+374,emoVis-8,TIM截图20200630164007.png,block chart,unit + fill color – numerical (Quantity) +categorical
+375,emoVis-8,TIM截图20200630164025.png,block chart,unit + fill color – numerical (Quantity)
+376,emoVis-8,TIM截图20200630164031.png,bar chart,unit + fill color – numerical (percentage)
+377,emoVis-8,TIM截图20200630164058.png,bar chart,area - numerical (quantity)
+378,emoVis-8,TIM截图20200630164105.png,bar chart,area - numerical (quantity)
+379,emoVis-8,TIM截图20200630164150.png,bar chart,semantics – categorical
+380,emoVis-8,TIM截图20200630164241.png,block chart,unit + fill color – numerical (Quantity) +categorical
+381,emoVis-8,TIM截图20200630164247.png,bar chart,height + fill color - numerical (percentage)
+382,venngage.com,1e4891fc-b141-41e3-b3fd-f2a0e193b444.png,bar chart,height - numerical (quantity)
+383,venngage.com,2c94c50b-8593-4c7a-b5e3-eee39bea9d47.png,block chart,unit + fill color – numerical (percentage)
+384,venngage.com,31e7264b-a257-4920-965f-f7934eef0048.png,block chart,unit + fill color – numerical (Quantity)
+385,venngage.com,33ddf5bc-94c9-4fc2-9d96-28516387837c.png,block chart,unit + fill color – numerical (percentage)
+386,venngage.com,63c7917f-51bb-423b-831f-b5c1563aa9a2.png,number,semantics – categorical
+387,venngage.com,6dd8cb98-4a89-4a0a-9b65-5ba57eecd0b4.png,bar chart,semantics – categorical
+388,venngage.com,880cf65c-ac54-40ae-86ed-c214163c6a63.png,block chart,unit + fill color – numerical (percentage)
+389,venngage.com,98dbd069-e56e-4c41-a08e-0b5dd8ffb617.png,block chart,height - numerical (quantity)
+390,venngage.com,a1c531d5-4a75-4998-aaf4-05f69531e488.png,block chart,unit + fill color – numerical (Quantity)
+391,venngage.com,a6ab61f0-956d-46bd-a81e-e761c07906f0.png,bar chart,semantics – categorical
+392,venngage.com,bf2c4ff1-f830-4207-97fa-402b1e6d5689.png,number,semantics – categorical
+393,venngage.com,TIM截图20200608144751.png,block chart,unit + fill color – numerical (Quantity)
+394,venngage.com,TIM截图20200608144825.png,block chart,unit + fill color – numerical (percentage)
+395,venngage.com,TIM截图20200608144833.png,circle,semantics – categorical
+396,venngage.com,TIM截图20200608144845.png,block chart,height - numerical (quantity)
+397,venngage.com,TIM截图20200608144853.png,block chart,unit + fill color – numerical (percentage)
+398,venngage.com,TIM截图20200608144933.png,block chart,unit + fill color – numerical (Quantity)
+399,venngage.com,TIM截图20200608145007.png,block chart,unit + fill color – numerical (percentage)
+400,venngage.com,TIM截图20200608145015.png,circle,semantics – categorical
+401,venngage.com,TIM截图20200608145043.png,block chart,unit + fill color – numerical (Quantity) +categorical
+402,venngage.com,TIM截图20200608145055.png,bar chart,height - numerical (quantity)
+403,venngage.com,TIM截图20200608145201.png,number,semantics – categorical
+404,venngage.com,TIM截图20200608145210.png,number,semantics – categorical
+405,venngage.com,TIM截图20200608145217.png,number,semantics – categorical
+406,venngage.com,TIM截图20200608145242.png,bar chart,semantics – categorical
+407,venngage.com,TIM截图20200608145253.png,block chart,unit + fill color – numerical (percentage)
+408,venngage.com,TIM截图20200608145305.png,block chart,unit + fill color – numerical (Quantity) +categorical
+409,venngage.com,TIM截图20200608145318.png,block chart,unit + fill color – numerical (percentage)
+410,venngage.com,TIM截图20200608145349.png,bar chart,semantics – categorical
+411,venngage.com,TIM截图20200608145403.png,number,semantics – categorical
+412,venngage.com,TIM截图20200608145409.png,block chart,unit + fill color – numerical (percentage)
+413,venngage.com,TIM截图20200608145417.png,number,semantics – categorical
+414,venngage.com,TIM截图20200608145423.png,circle,semantics – categorical
+415,venngage.com,TIM截图20200608145436.png,block chart,unit + fill color – numerical (percentage)
+416,venngage.com,TIM截图20200608145544.png,circle,semantics – categorical
+417,venngage.com,TIM截图20200608145555.png,block chart,unit + fill color – numerical (Quantity) +categorical
+418,venngage.com,TIM截图20200608145601.png,circle,semantics – categorical
+419,venngage.com,TIM截图20200608145619.png,number,semantics – categorical
+420,venngage.com,TIM截图20200608145629.png,number,semantics – categorical
+421,venngage.com,TIM截图20200608145640.png,number,semantics – categorical
+422,venngage.com,TIM截图20200608145645.png,circle,semantics – categorical
+423,venngage.com,TIM截图20200608145656.png,bar chart,semantics – categorical
+424,venngage.com,TIM截图20200608145702.png,bar chart,semantics – categorical
+425,venngage.com,TIM截图20200608145708.png,block chart,unit + fill color – numerical (percentage)
+426,venngage.com,TIM截图20200608145722.png,bar chart,unit + fill color – numerical (Quantity)
+427,venngage.com,TIM截图20200608145727.png,block chart,unit + fill color – numerical (Quantity)
+428,venngage.com,TIM截图20200608145802.png,number,semantics – categorical
+429,venngage.com,TIM截图20200608145807.png,block chart,unit + fill color – numerical (percentage)
+430,venngage.com,TIM截图20200608145814.png,map,area - numerical (quantity)
+431,venngage.com,TIM截图20200608145825.png,bar chart,semantics – categorical
+432,venngage.com,TIM截图20200608145830.png,line chart,semantics – categorical
+433,venngage.com,TIM截图20200608145846.png,bar chart,semantics – categorical
+434,venngage.com,TIM截图20200608145852.png,circle,semantics – categorical
+435,venngage.com,TIM截图20200608145859.png,block chart,unit + fill color – numerical (percentage)
+436,venngage.com,TIM截图20200608145903.png,bar chart,semantics – categorical
+437,venngage.com,TIM截图20200608145912.png,number,semantics – categorical
+438,venngage.com,TIM截图20200608145917.png,block chart,unit + fill color – numerical (percentage)
+439,venngage.com,TIM截图20200608145921.png,bar chart,semantics – categorical
+440,venngage.com,TIM截图20200608145926.png,bar chart,semantics – categorical
+441,venngage.com,TIM截图20200608145932.png,number,semantics – categorical
+442,venngage.com,TIM截图20200608145936.png,number,semantics – categorical
+443,venngage.com,TIM截图20200608145940.png,block chart,unit + fill color – numerical (percentage)
+444,venngage.com,TIM截图20200608145947.png,bar chart,semantics – categorical
+445,venngage.com,TIM截图20200608150020.png,block chart,unit + fill color – numerical (percentage)
+446,venngage.com,TIM截图20200608150033.png,number,semantics – categorical
+447,venngage.com,TIM截图20200608150040.png,block chart,unit + fill color – numerical (percentage)
+448,venngage.com,TIM截图20200608150102.png,bar chart,semantics – categorical
+449,venngage.com,TIM截图20200608150113.png,number,semantics – categorical
+450,venngage.com,TIM截图20200608150144.png,number,semantics – categorical
+451,venngage.com,TIM截图20200608150158.png,bar chart,semantics – categorical
+452,venngage.com,TIM截图20200608150204.png,block chart,unit + fill color – numerical (percentage)
+453,venngage.com,TIM截图20200608150227.png,block chart,unit + fill color – numerical (percentage)
+454,venngage.com,TIM截图20200608150239.png,circle,semantics – categorical
+455,venngage.com,TIM截图20200608150357.png,block chart,unit + fill color – numerical (percentage)
+456,venngage.com,TIM截图20200608150409.png,block chart,unit + fill color – numerical (percentage)
+457,emoVis-4,【4】TIM截图20200622215418.png,bar chart,semantics – categorical
+458,emoVis-4,【4】TIM截图20200622215741.png,bar chart,semantics – categorical
+459,emoVis-4,【4】TIM截图20200626164639.png,bar chart,semantics – categorical
+460,emoVis-4,【4】TIM截图20200626190819.png,bar chart,semantics – categorical
+461,emoVis-4,【4】TIM截图20200626190927.png,bar chart,semantics – categorical
+462,emoVis-4,【4】TIM截图20200626193304.png,bar chart,semantics – categorical
+463,emoVis-4,【4】TIM截图20200626193552.png,bar chart,semantics – categorical
+464,emoVis-4,【4】TIM截图20200626194258.png,bar chart,semantics – categorical
+465,emoVis-4,【5】TIM截图20200626191139.png,circle,semantics – categorical
+466,emoVis-4,【5】TIM截图20200626191222.png,circle,semantics – categorical
+467,emoVis-4,【5】TIM截图20200626192158.png,circle,semantics – categorical
+468,emoVis-4,【5】TIM截图20200626194353.png,circle,semantics – categorical
+469,emoVis-4,【7】TIM截图20200622215536.png,block chart,unit + fill color – numerical (Quantity)
+470,emoVis-4,【7】TIM截图20200622215543.png,block chart,unit + fill color – numerical (Quantity)
+471,emoVis-4,【7】TIM截图20200622215548.png,block chart,unit + fill color – numerical (Quantity)
+472,emoVis-4,【7】TIM截图20200626192146.png,block chart,unit + fill color – numerical (Quantity)
+473,emoVis-4,【7】TIM截图20200626192228.png,block chart,unit + fill color – numerical (Quantity)
+474,emoVis-4,【7】TIM截图20200626193847.png,block chart,unit + fill color – numerical (percentage)
+475,emoVis-4,【7】TIM截图20200626194115.png,block chart,unit + fill color – numerical (Quantity)
+476,emoVis-4,【7】TIM截图20200626194920.png,block chart,unit + fill color – numerical (Quantity)
+477,emoVis-4,【8】pic130.png,block chart,unit + fill color – numerical (Quantity) +categorical
+478,emoVis-4,【8】TIM截图20200626164650.png,block chart,unit + fill color – numerical (percentage)
+479,emoVis-4,【8】TIM截图20200626193204.png,block chart,unit + fill color – numerical (percentage)
+480,emoVis-4,【8】TIM截图20200626193212.png,block chart,unit + fill color – numerical (percentage)
+481,emoVis-4,【8】TIM截图20200626193223.png,block chart,unit + fill color – numerical (percentage)
+482,emoVis-4,【8】TIM截图20200626193519.png,block chart,unit + fill color – numerical (percentage)
+483,emoVis-4,【8】TIM截图20200626194027.png,block chart,unit + fill color – numerical (percentage)
+484,emoVis-4,【8】TIM截图20200626194250.png,block chart,unit + fill color – numerical (percentage)
+485,emoVis-4,【9】TIM截图20200626191313.png,block chart,height + fill color - numerical (percentage)
+486,emoVis-4,【9】TIM截图20200626191456.png,block chart,height + fill color - numerical (percentage)
+487,emoVis-4,【10】TIM截图20200626171748.png,circle,semantics – categorical
+488,emoVis-4,【10】TIM截图20200626171802.png,circle,semantics – categorical
+489,emoVis-4,【10】TIM截图20200626194818.png,circle,semantics – categorical
+490,emoVis-4,【11】TIM截图20200622215512.png,area,area - numerical (quantity)
+491,emoVis-4,【11】TIM截图20200622215624.png,area,area - numerical (quantity)
+492,emoVis-4,【11】TIM截图20200622215638.png,area,area - numerical (quantity)
+493,emoVis-4,【11】TIM截图20200626172915.png,area,area - numerical (quantity)
+494,emoVis-4,【11】TIM截图20200626191345.png,area,area - numerical (quantity)
+495,emoVis-4,【11】TIM截图20200626194400.png,area,area - numerical (quantity)
+496,emoVis-4,【11】TIM截图20200626194439.png,area,area - numerical (quantity)
+497,emoVis-4,【12】TIM截图20200626190848.png,block chart,unit + fill color – numerical (Quantity)
+498,emoVis-4,【12】TIM截图20200626191044.png,bar chart,semantics – categorical
+499,emoVis-4,【12】TIM截图20200626191150.png,block chart,unit + fill color – numerical (percentage)
+500,emoVis-4,【12】TIM截图20200626191205.png,block chart,unit + fill color – numerical (percentage)
+501,emoVis-4,【13】TIM截图20200626164615.png,block chart,unit + fill color – numerical (percentage)
+502,emoVis-4,【13】TIM截图20200626190857.png,block chart,unit + fill color – numerical (percentage)
+503,emoVis-4,【13】TIM截图20200626191234.png,block chart,unit + fill color – numerical (percentage)
+504,emoVis-4,【13】TIM截图20200626191432.png,block chart,unit + fill color – numerical (percentage)
+505,emoVis-4,【13】TIM截图20200626192055.png,bar chart,unit + fill color – numerical (percentage)
+506,emoVis-4,【13】TIM截图20200626194309.png,block chart,unit + fill color – numerical (percentage)
+507,emoVis-4,【13】TIM截图20200626194622.png,bar chart,unit + fill color – numerical (percentage)
+508,emoVis-4,【14】TIM截图20200626190917.png,block chart,height + fill color - numerical (percentage)
+509,emoVis-4,【14】TIM截图20200626192048.png,block chart,height + fill color - numerical (percentage)
+510,emoVis-4,【14】TIM截图20200626193719.png,block chart,height + fill color - numerical (percentage)
+511,emoVis-4,【14】TIM截图20200626194341.png,block chart,height + fill color - numerical (percentage)
+512,emoVis-4,【14】TIM截图20200626194909.png,block chart,height + fill color - numerical (percentage)
+513,emoVis-4,【16】TIM截图20200626190907.png,block chart,unit + fill color – numerical (percentage)
+514,emoVis-4,【16】TIM截图20200626191446.png,block chart,unit + fill color – numerical (percentage)
+515,emoVis-4,【16】TIM截图20200626193913.png,block chart,unit + fill color – numerical (percentage)
+516,emoVis-4,【16】TIM截图20200626194430.png,block chart,unit + fill color – numerical (Quantity)
+517,emoVis-4,【17】pic126.png,number,semantics – categorical
+518,emoVis-4,【17】TIM截图20200622215500.png,tree and graph,semantics – categorical
+519,emoVis-4,【17】TIM截图20200626190754.png,number,semantics – categorical
+520,emoVis-4,【17】TIM截图20200626191258.png,number,semantics – categorical
+521,emoVis-4,【17】TIM截图20200626191422.png,number,semantics – categorical
+522,emoVis-4,【17】TIM截图20200626191656.png,number,semantics – categorical
+523,emoVis-4,【17】TIM截图20200626191840.png,number,semantics – categorical
+524,emoVis-4,【17】TIM截图20200626191850.png,number,semantics – categorical
+525,emoVis-4,【17】TIM截图20200626191923.png,number,semantics – categorical
+526,emoVis-4,【17】TIM截图20200626193537.png,number,semantics – categorical
+527,emoVis-4,【18】信息图-pic122.png,block chart,unit + fill color – numerical (Quantity)
+528,emoVis-4,【19】TIM截图20200626194321.png,number,semantics – categorical
+529,emoVis-4,【20】pic128.png,bar chart,height - numerical (quantity)
+530,emoVis-4,【20】TIM截图20200626190951.png,bar chart,height - numerical (quantity)
+531,emoVis-4,【21】TIM截图20200626190744.png,block chart,semantics – categorical
+532,emoVis-4,【21】TIM截图20200626192325.png,block chart,semantics – categorical
+533,emoVis-4,【21】TIM截图20200626192342.png,block chart,semantics – categorical
+534,emoVis-4,【23】pic57.png,map,area - numerical (quantity)
+535,emoVis-4,TIM截图20200626191749.png,tree and graph,semantics – categorical
+536,emoVis-4,pic73.png,point,semantics – categorical
+537,emoVis-4,TIM截图20200622215527.png,block chart,height + fill color - numerical (percentage)
+538,emoVis-4,TIM截图20200622215710.png,tree and graph,semantics – categorical
+539,emoVis-4,TIM截图20200626164710.png,bar chart,semantics – categorical
+540,emoVis-4,TIM截图20200626190630.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+541,emoVis-4,TIM截图20200626191110.png,bar chart,height - numerical (quantity)
+542,emoVis-4,TIM截图20200626191353.png,number,semantics – categorical
+543,emoVis-4,TIM截图20200626191542.png,block chart,unit + fill color – numerical (Quantity)
+544,emoVis-4,TIM截图20200626191911.png,block chart,unit + fill color – numerical (Quantity)
+545,emoVis-4,TIM截图20200626192000.png,circle,unit + fill color – numerical (Quantity) +categorical
+546,emoVis-4,TIM截图20200626193614.png,bar chart,height + fill color - numerical (percentage)
+547,emoVis-4,TIM截图20200626194245.png,map,unit + fill color – numerical (percentage)
+548,emoVis-4,TIM截图20200626194444.png,circle,unit + fill color – numerical (Quantity) +categorical
+549,emoVis-4,【icon+shape】TIM截图20200626191822.png,block chart,unit + fill color – numerical (Quantity)
+550,emoVis-4,【icon+shape】TIM截图20200626193734.png,block chart,unit + fill color – numerical (percentage)
+551,emoVis-4,【icon+shape】TIM截图20200626193803.png,block chart,unit + fill color – numerical (Quantity)
+552,emoVis-5,pic146.png,number,semantics – categorical
+553,emoVis-5,pic181.png,bar chart,height - numerical (quantity)
+554,emoVis-5,微信图片_20210818010428.jpg,line chart,semantics – categorical
+555,emoVis-5,pic186.png,bar chart,height - numerical (quantity)
+556,emoVis-5,pic216.png,block chart,unit + fill color – numerical (Quantity) +categorical
+557,emoVis-5,pic218.png,block chart,area - numerical (quantity)
+558,emoVis-5,pic240.png,circle,semantics – categorical
+559,emoVis-5,pic266.png,bar chart,semantics – categorical
+560,emoVis-5,TIM截图20200629153120.png,bar chart,height - numerical (quantity)
+561,emoVis-5,TIM截图20200629153214.png,map,semantics – categorical
+562,emoVis-5,TIM截图20200629153327.png,bar chart,semantics – categorical
+563,emoVis-5,TIM截图20200629153338.png,circle,semantics – categorical
+564,emoVis-5,TIM截图20200629153345.png,bar chart,semantics – categorical
+565,emoVis-5,TIM截图20200629153438.png,circle,semantics – categorical
+566,emoVis-5,TIM截图20200629153500.png,circle,semantics – categorical
+567,emoVis-5,TIM截图20200629153607.png,circle,semantics – categorical
+568,emoVis-5,TIM截图20200629153613.png,circle,semantics – categorical
+569,emoVis-5,TIM截图20200629153617.png,bar chart,height - numerical (quantity)
+570,emoVis-5,TIM截图20200629154421.png,block chart,unit + fill color – numerical (Quantity) +categorical
+571,emoVis-5,TIM截图20200629154433.png,bar chart,semantics – categorical
+572,emoVis-5,TIM截图20200629155150.png,bar chart,semantics – categorical
+573,emoVis-5,TIM截图20200629155435.png,bar chart,semantics – categorical
+574,emoVis-5,TIM截图20200629155640.png,bar chart,semantics – categorical
+575,emoVis-5,TIM截图20200629155811.png,bar chart,semantics – categorical
+576,emoVis-5,TIM截图20200629155847.png,bar chart,semantics – categorical
+577,emoVis-5,TIM截图20200629155857.png,bar chart,area - numerical (quantity)
+578,emoVis-5,TIM截图20200629155924.png,bar chart,semantics – categorical
+579,emoVis-5,TIM截图20200629155942.png,bar chart,area - numerical (quantity)
+580,emoVis-5,TIM截图20200629160043.png,number,semantics – categorical
+581,emoVis-5,TIM截图20200629160051.png,circle,semantics – categorical
+582,emoVis-5,TIM截图20200629160116.png,block chart,unit + fill color – numerical (Quantity)
+583,emoVis-5,TIM截图20200629160140.png,block chart,unit + fill color – numerical (percentage)
+584,emoVis-5,TIM截图20200629160213.png,number,semantics – categorical
+585,emoVis-5,TIM截图20200629160535.png,number,semantics – categorical
+586,emoVis-5,TIM截图20200629160636.png,number,semantics – categorical
+587,emoVis-5,TIM截图20200629160705.png,tree and graph,semantics – categorical
+588,emoVis-5,TIM截图20200629160800.png,bar chart,height - numerical (quantity)
+589,emoVis-5,TIM截图20200629160954.png,block chart,semantics – categorical
+590,emoVis-5,TIM截图20200629161004.png,block chart,semantics – categorical
+591,emoVis-5,TIM截图20200629161020.png,block chart,semantics – categorical
+592,emoVis-5,TIM截图20200629161036.png,block chart,semantics – categorical
+593,emoVis-5,TIM截图20200629161048.png,block chart,semantics – categorical
+594,emoVis-5,TIM截图20200629161130.png,block chart,height + fill color - numerical (percentage)
+595,emoVis-5,TIM截图20200629161151.png,block chart,unit + fill color – numerical (Quantity)
+596,emoVis-5,TIM截图20200629161157.png,block chart,unit + fill color – numerical (Quantity)
+597,emoVis-5,TIM截图20200629161246.png,block chart,unit + fill color – numerical (Quantity)
+598,emoVis-5,TIM截图20200629161258.png,block chart,unit + fill color – numerical (percentage)
+599,emoVis-5,TIM截图20200629161317.png,bar chart,semantics – categorical
+600,emoVis-5,TIM截图20200629161329.png,block chart,unit + fill color – numerical (Quantity)
+601,emoVis-5,TIM截图20200629161341.png,block chart,unit + fill color – numerical (Quantity)
+602,emoVis-5,TIM截图20200629161455.png,block chart,unit + fill color – numerical (Quantity)
+603,emoVis-5,TIM截图20200629161604.png,block chart,unit + fill color – numerical (percentage)
+604,emoVis-5,TIM截图20200629162223.png,block chart,unit + fill color – numerical (Quantity)
+605,emoVis-5,TIM截图20200629162245.png,block chart,unit + fill color – numerical (Quantity)
+606,emoVis-5,TIM截图20200629162335.png,block chart,unit + fill color – numerical (percentage)
+607,emoVis-5,TIM截图20200629162455.png,block chart,unit + fill color – numerical (Quantity)
+608,emoVis-5,TIM截图20200629162552.png,block chart,unit + fill color – numerical (Quantity)
+609,emoVis-5,TIM截图20200629162615.png,block chart,height + fill color - numerical (percentage)
+610,emoVis-5,TIM截图20200629162650.png,block chart,unit + fill color – numerical (Quantity)
+611,emoVis-5,TIM截图20200629162658.png,block chart,unit + fill color – numerical (percentage)
+612,emoVis-5,TIM截图20200629163213.png,block chart,height + fill color - numerical (percentage)
+613,emoVis-5,TIM截图20200629163224.png,block chart,unit + fill color – numerical (Quantity)
+614,emoVis-5,TIM截图20200629163317.png,block chart,unit + fill color – numerical (percentage)
+615,emoVis-5,TIM截图20200629163336.png,block chart,unit + fill color – numerical (Quantity)
+616,emoVis-5,TIM截图20200629163450.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+617,emoVis-5,TIM截图20200629163545.png,bar chart,area - numerical (quantity)
+618,emoVis-5,TIM截图20200629163607.png,bar chart,semantics – categorical
+619,emoVis-5,TIM截图20200629163720.png,circle,area - numerical (quantity)
+620,emoVis-5,TIM截图20200629163857.png,bar chart,height - numerical (quantity)
+621,emoVis-5,TIM截图20200629164031.png,bar chart,semantics – categorical
+622,emoVis-5,TIM截图20200629164104.png,block chart,unit + fill color – numerical (percentage)
+623,emoVis-5,TIM截图20200629164120.png,number,semantics – categorical
+624,emoVis-5,TIM截图20200629164128.png,bar chart,area - numerical (quantity)
+625,emoVis-5,TIM截图20200629164314.png,block chart,unit + fill color – numerical (Quantity) +categorical
+626,emoVis-5,TIM截图20200629164344.png,bar chart,area - numerical (quantity)
+627,emoVis-5,TIM截图20200629164426.png,block chart,unit + fill color – numerical (Quantity) +categorical
+628,emoVis-5,TIM截图20200629164454.png,number,semantics – categorical
+629,emoVis-5,TIM截图20200629164509.png,circle,semantics – categorical
+630,emoVis-5,TIM截图20200629164516.png,number,semantics – categorical
+631,emoVis-5,TIM截图20200629164524.png,block chart,unit + fill color – numerical (percentage)
+632,emoVis-5,TIM截图20200629164541.png,circle,semantics – categorical
+633,emoVis-5,TIM截图20200629164549.png,block chart,height + fill color - numerical (percentage)
+634,emoVis-5,TIM截图20200629164622.png,circle,semantics – categorical
+635,emoVis-5,TIM截图20200629164645.png,bar chart,height - numerical (quantity)
+636,emoVis-5,TIM截图20200629164655.png,block chart,area - numerical (quantity)
+637,emoVis-5,TIM截图20200629164717.png,bar chart,semantics – categorical
+638,emoVis-5,TIM截图20200629164745.png,block chart,unit + fill color – numerical (Quantity)
+639,emoVis-5,TIM截图20200629164755.png,bar chart,height - numerical (quantity)
+640,emoVis-5,TIM截图20200629164800.png,block chart,unit + fill color – numerical (percentage)
+641,emoVis-5,TIM截图20200629164830.png,bar chart,height + fill color - numerical (percentage)
+642,emoVis-5,TIM截图20200629164928.png,block chart,unit + fill color – numerical (Quantity)
+643,emoVis-5,TIM截图20200629164940.png,area,semantics – categorical
+644,emoVis-5,TIM截图20200629165109.png,number,semantics – categorical
+645,emoVis-5,TIM截图20200629165215.png,bar chart,semantics – categorical
+646,emoVis-5,TIM截图20200629165315.png,circle,area - numerical (quantity)
+647,emoVis-5,TIM截图20200629165326.png,number,semantics – categorical
+648,emoVis-5,TIM截图20200629165336.png,bar chart,height + fill color - numerical (percentage)
+649,emoVis-5,TIM截图20200629165346.png,block chart,height + fill color - numerical (percentage)
+650,emoVis-5,TIM截图20200629165354.png,bar chart,semantics – categorical
+651,emoVis-5,TIM截图20200629165401.png,block chart,unit + fill color – numerical (percentage)
+652,emoVis-5,TIM截图20200629165428.png,block chart,unit + fill color – numerical (Quantity)
+653,emoVis-5,TIM截图20200629165436.png,bar chart,height + fill color - numerical (percentage)
+654,emoVis-5,TIM截图20200629165504.png,block chart,unit + fill color – numerical (Quantity)
+655,emoVis-6,pic329.png,block chart,unit + fill color – numerical (Quantity) +categorical
+656,emoVis-6,pic363.png,block chart,height + fill color - numerical (percentage)
+657,emoVis-6,pic377.png,block chart,semantics – categorical
+658,emoVis-6,pic401.png,block chart,height + fill color - numerical (percentage)
+659,emoVis-6,pic431.png,bar chart,height - numerical (quantity)
+660,emoVis-6,pic434.png,bar chart,height + fill color - numerical (percentage)
+661,emoVis-6,pic483.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+662,emoVis-6,TIM截图20200629191812.png,number,semantics – categorical
+663,emoVis-6,TIM截图20200629191932.png,line chart,semantics – categorical
+664,emoVis-6,TIM截图20200629191947.png,block chart,unit + fill color – numerical (Quantity)
+665,emoVis-6,TIM截图20200629191954.png,block chart,unit + fill color – numerical (percentage)
+666,emoVis-6,TIM截图20200629192050.png,block chart,unit + fill color – numerical (Quantity)
+667,emoVis-6,TIM截图20200629192121.png,block chart,unit + fill color – numerical (Quantity)
+668,emoVis-6,TIM截图20200629192126.png,block chart,unit + fill color – numerical (Quantity)
+669,emoVis-6,TIM截图20200629192132.png,block chart,unit + fill color – numerical (Quantity)
+670,emoVis-6,TIM截图20200629192214.png,area,semantics – categorical
+671,emoVis-6,TIM截图20200629192229.png,bar chart,unit + fill color – numerical (Quantity)
+672,emoVis-6,TIM截图20200629192258.png,number,semantics – categorical
+673,emoVis-6,TIM截图20200629192305.png,circle,area - numerical (quantity)
+674,emoVis-6,TIM截图20200629192314.png,block chart,semantics – categorical
+675,emoVis-6,TIM截图20200629192333.png,block chart,unit + fill color – numerical (Quantity)
+676,emoVis-6,TIM截图20200629192601.png,block chart,unit + fill color – numerical (Quantity)
+677,emoVis-6,TIM截图20200629192622.png,bar chart,height + fill color - numerical (percentage)
+678,emoVis-6,TIM截图20200629192648.png,grid and matrix,semantics – categorical
+679,emoVis-6,TIM截图20200629192658.png,circle,semantics – categorical
+680,emoVis-6,TIM截图20200629192722.png,block chart,semantics – categorical
+681,emoVis-6,TIM截图20200629192805.png,bar chart,semantics – categorical
+682,emoVis-6,TIM截图20200629192931.png,block chart,height + fill color - numerical (percentage)
+683,emoVis-6,TIM截图20200629192942.png,block chart,unit + fill color – numerical (percentage)
+684,emoVis-6,TIM截图20200629192950.png,block chart,height + fill color - numerical (percentage)
+685,emoVis-6,TIM截图20200629193000.png,circle,area - numerical (quantity)
+686,emoVis-6,TIM截图20200629193007.png,block chart,unit + fill color – numerical (percentage)
+687,emoVis-6,TIM截图20200629193013.png,block chart,unit + fill color – numerical (percentage)
+688,emoVis-6,TIM截图20200629193018.png,block chart,unit + fill color – numerical (percentage)
+689,emoVis-6,TIM截图20200629193049.png,block chart,unit + fill color – numerical (percentage)
+690,emoVis-6,TIM截图20200629193119.png,block chart,semantics – categorical
+691,emoVis-6,TIM截图20200629193232.png,block chart,height + fill color - numerical (percentage)
+692,emoVis-6,TIM截图20200629193305.png,area,area - numerical (quantity)
+693,emoVis-6,TIM截图20200629193320.png,block chart,height + fill color - numerical (percentage)
+694,emoVis-6,TIM截图20200629193604.png,block chart,unit + fill color – numerical (percentage)
+695,emoVis-6,TIM截图20200629193653.png,block chart,unit + fill color – numerical (Quantity)
+696,emoVis-6,TIM截图20200629193738.png,block chart,unit + fill color – numerical (Quantity)
+697,emoVis-6,TIM截图20200629193827.png,block chart,unit + fill color – numerical (percentage)
+698,emoVis-6,TIM截图20200629194238.png,number,semantics – categorical
+699,emoVis-6,TIM截图20200629194251.png,number,semantics – categorical
+700,emoVis-6,TIM截图20200629194315.png,bar chart,height + fill color - numerical (percentage)
+701,emoVis-6,TIM截图20200629194330.png,block chart,unit + fill color – numerical (percentage)
+702,emoVis-6,TIM截图20200629194412.png,circle,semantics – categorical
+703,emoVis-6,TIM截图20200629194918.png,block chart,unit + fill color – numerical (Quantity)
+704,emoVis-6,TIM截图20200629194940.png,block chart,unit + fill color – numerical (Quantity)
+705,emoVis-6,TIM截图20200629194951.png,block chart,unit + fill color – numerical (Quantity)
+706,emoVis-6,TIM截图20200629195018.png,block chart,unit + fill color – numerical (percentage)
+707,emoVis-6,TIM截图20200629195137.png,bar chart,height - numerical (quantity)
+708,emoVis-6,TIM截图20200629195505.png,block chart,height + fill color - numerical (percentage)
+709,emoVis-6,TIM截图20200629195518.png,area,area - numerical (quantity)
+710,emoVis-6,TIM截图20200629195530.png,circle,semantics – categorical
+711,emoVis-6,TIM截图20200629195743.png,block chart,height + fill color - numerical (percentage)
+712,emoVis-6,TIM截图20200629195805.png,circle,semantics – categorical
+713,emoVis-6,TIM截图20200629200054.png,block chart,unit + fill color – numerical (percentage)
+714,emoVis-6,TIM截图20200629200103.png,block chart,unit + fill color – numerical (Quantity) +categorical
+715,emoVis-6,TIM截图20200629200110.png,block chart,height + fill color - numerical (percentage)
+716,emoVis-6,TIM截图20200629200202.png,block chart,height + fill color - numerical (percentage)
+717,emoVis-6,TIM截图20200629200224.png,area,area - numerical (quantity)
+718,emoVis-6,TIM截图20200629200247.png,block chart,unit + fill color – numerical (Quantity)
+719,emoVis-6,TIM截图20200629200255.png,block chart,unit + fill color – numerical (Quantity)
+720,emoVis-6,TIM截图20200629200301.png,block chart,unit + fill color – numerical (Quantity)
+721,emoVis-6,TIM截图20200629200309.png,block chart,unit + fill color – numerical (Quantity)
+722,emoVis-6,TIM截图20200629200438.png,block chart,unit + fill color – numerical (percentage)
+723,emoVis-6,TIM截图20200629200449.png,block chart,unit + fill color – numerical (percentage)
+724,emoVis-6,TIM截图20200629200454.png,block chart,unit + fill color – numerical (percentage)
+725,emoVis-6,TIM截图20200629200501.png,block chart,unit + fill color – numerical (percentage)
+726,emoVis-6,TIM截图20200629200620.png,line chart,semantics – categorical
+727,emoVis-6,TIM截图20200629200656.png,circle,area - numerical (quantity)
+728,emoVis-6,TIM截图20200629200701.png,block chart,unit + fill color – numerical (Quantity)
+729,emoVis-6,TIM截图20200629200754.png,circle,semantics – categorical
+730,emoVis-6,TIM截图20200629200927.png,number,semantics – categorical
+731,emoVis-6,TIM截图20200629200937.png,number,semantics – categorical
+732,emoVis-6,TIM截图20200629200942.png,block chart,unit + fill color – numerical (percentage)
+733,emoVis-6,TIM截图20200629200946.png,number,semantics – categorical
+734,emoVis-6,TIM截图20200629201102.png,block chart,unit + fill color – numerical (Quantity) +categorical
+735,emoVis-6,TIM截图20200629201154.png,block chart,unit + fill color – numerical (percentage)
+736,emoVis-6,TIM截图20200629201427.png,block chart,unit + fill color – numerical (percentage)
+737,emoVis-6,TIM截图20200629201432.png,block chart,unit + fill color – numerical (Quantity) +categorical
+738,emoVis-6,TIM截图20200629201438.png,block chart,unit + fill color – numerical (percentage)
+739,emoVis-6,TIM截图20200629201444.png,bar chart,height - numerical (quantity)
+740,emoVis-6,TIM截图20200629201448.png,block chart,unit + fill color – numerical (Quantity) +categorical
+741,emoVis-6,TIM截图20200629201519.png,bar chart,height - numerical (quantity)
+742,emoVis-6,TIM截图20200629201629.png,block chart,unit + fill color – numerical (Quantity)
+743,emoVis-6,TIM截图20200629201635.png,bar chart,area - numerical (quantity)
+744,emoVis-6,TIM截图20200629201640.png,bar chart,height + fill color - numerical (percentage)
+745,emoVis-6,TIM截图20200629201647.png,area,area - numerical (quantity)
+746,emoVis-6,TIM截图20200629201659.png,block chart,unit + fill color – numerical (Quantity)
+747,emoVis-6,TIM截图20200629201803.png,bar chart,semantics – categorical
+748,emoVis-7,pic505.png,bar chart,height - numerical (quantity)
+749,emoVis-7,pic525.png,block chart,unit + fill color – numerical (Quantity) +categorical
+750,emoVis-7,pic544.png,block chart,unit + fill color – numerical (Quantity) +categorical
+751,emoVis-7,pic583.png,block chart,unit + fill color – numerical (Quantity) +categorical
+752,emoVis-7,pic611.png,bar chart,height - numerical (quantity)
+753,emoVis-7,pic662.png,bar chart,semantics – categorical
+754,emoVis-7,pic686.png,block chart,height + fill color - numerical (percentage)
+755,emoVis-7,pic763.png,block chart,height + fill color - numerical (percentage)
+756,emoVis-7,pic767.png,bar chart,height - numerical (quantity)
+757,emoVis-7,pic780.png,map,semantics – categorical
+758,emoVis-7,TIM截图20200630143429.png,bar chart,height - numerical (quantity)
+759,emoVis-7,TIM截图20200630143435.png,bar chart,height + fill color - numerical (percentage)
+760,emoVis-7,TIM截图20200630143442.png,block chart,unit + fill color – numerical (Quantity)
+761,emoVis-7,TIM截图20200630143448.png,number,semantics – categorical
+762,emoVis-7,TIM截图20200630143455.png,line chart,semantics – categorical
+763,emoVis-7,TIM截图20200630143501.png,bar chart,area - numerical (quantity)
+764,emoVis-7,TIM截图20200630144622.png,line chart,semantics – categorical
+765,emoVis-7,TIM截图20200630144628.png,block chart,unit + fill color – numerical (Quantity)
+766,emoVis-7,TIM截图20200630145057.png,block chart,unit + fill color – numerical (percentage)
+767,emoVis-7,TIM截图20200630145441.png,bar chart,semantics – categorical
+768,emoVis-7,TIM截图20200630150351.png,bar chart,area - numerical (quantity)
+769,emoVis-7,TIM截图20200630150409.png,block chart,height + fill color - numerical (percentage)
+770,emoVis-7,TIM截图20200630150423.png,bar chart,area - numerical (quantity)
+771,emoVis-7,TIM截图20200630150610.png,bar chart,semantics – categorical
+772,emoVis-7,TIM截图20200630150713.png,block chart,unit + fill color – numerical (Quantity)
+773,emoVis-7,TIM截图20200630150728.png,block chart,unit + fill color – numerical (Quantity)
+774,emoVis-7,TIM截图20200630150752.png,block chart,unit + fill color – numerical (Quantity)
+775,emoVis-7,TIM截图20200630150805.png,bar chart,area - numerical (quantity)
+776,emoVis-7,TIM截图20200630150916.png,bar chart,unit + fill color – numerical (Quantity)
+777,emoVis-7,TIM截图20200630151222.png,block chart,unit + fill color – numerical (Quantity) +categorical
+778,emoVis-7,TIM截图20200630151430.png,block chart,unit + fill color – numerical (percentage)
+779,emoVis-7,TIM截图20200630151503.png,number,semantics – categorical
+780,emoVis-7,TIM截图20200630151532.png,block chart,unit + fill color – numerical (Quantity) +categorical
+781,emoVis-7,TIM截图20200630151626.png,bar chart,semantics – categorical
+782,emoVis-7,TIM截图20200630151714.png,block chart,unit + fill color – numerical (Quantity) +categorical
+783,emoVis-7,TIM截图20200630151719.png,block chart,unit + fill color – numerical (Quantity) +categorical
+784,emoVis-7,TIM截图20200630151929.png,bar chart,height - numerical (quantity)
+785,emoVis-7,TIM截图20200630152002.png,bar chart,area - numerical (quantity)
+786,emoVis-7,TIM截图20200630152124.png,circle,semantics – categorical
+787,emoVis-7,TIM截图20200630152136.png,bar chart,semantics – categorical
+788,emoVis-7,TIM截图20200630152318.png,block chart,height - numerical (quantity)
+789,emoVis-7,TIM截图20200630152328.png,block chart,height - numerical (quantity)
+790,emoVis-7,TIM截图20200630152340.png,block chart,height - numerical (quantity)
+791,emoVis-7,TIM截图20200630152516.png,block chart,unit + fill color – numerical (percentage)
+792,emoVis-7,TIM截图20200630152526.png,number,height - numerical (quantity)
+793,emoVis-7,TIM截图20200630152534.png,bar chart,area - numerical (quantity)
+794,emoVis-7,TIM截图20200630152638.png,block chart,unit + fill color – numerical (Quantity)
+795,emoVis-7,TIM截图20200630152722.png,circle,semantics – categorical
+796,emoVis-7,TIM截图20200630152756.png,block chart,unit + fill color – numerical (Quantity)
+797,emoVis-7,TIM截图20200630152805.png,bar chart,area - numerical (quantity)
+798,emoVis-7,TIM截图20200630152810.png,block chart,unit + fill color – numerical (Quantity)
+799,emoVis-7,TIM截图20200630152826.png,block chart,unit + fill color – numerical (Quantity)
+800,emoVis-7,TIM截图20200630152842.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+801,emoVis-7,TIM截图20200630152931.png,number,semantics – categorical
+802,emoVis-7,TIM截图20200630152958.png,circle,semantics – categorical
+803,emoVis-7,TIM截图20200630153103.png,block chart,unit + fill color – numerical (Quantity) +categorical
+804,emoVis-7,TIM截图20200630153146.png,block chart,semantics – categorical
+805,emoVis-7,TIM截图20200630153652.png,bar chart,area - numerical (quantity)
+806,emoVis-7,TIM截图20200630153806.png,circle,semantics – categorical
+807,emoVis-7,TIM截图20200630153825.png,bar chart,semantics – categorical
+808,emoVis-7,TIM截图20200630153922.png,bar chart,area - numerical (quantity)
+809,emoVis-7,TIM截图20200630153936.png,block chart,unit + fill color – numerical (Quantity)
+810,emoVis-7,TIM截图20200630154046.png,bar chart,semantics – categorical
+811,emoVis-7,TIM截图20200630154140.png,bar chart,height + fill color - numerical (percentage)
+812,emoVis-7,TIM截图20200630154209.png,block chart,unit + fill color – numerical (percentage)
+813,emoVis-7,TIM截图20200630154215.png,block chart,unit + fill color – numerical (percentage)
+814,emoVis-7,TIM截图20200630154222.png,bar chart,height + fill color - numerical (percentage)
+815,emoVis-7,TIM截图20200630154230.png,bar chart,height + fill color - numerical (percentage)
+816,emoVis-7,TIM截图20200630154235.png,bar chart,height + fill color - numerical (percentage)
+817,emoVis-7,TIM截图20200630154322.png,block chart,semantics – categorical
+818,emoVis-7,TIM截图20200630154634.png,block chart,height - numerical (quantity)
+819,emoVis-7,TIM截图20200630154644.png,bar chart,height + fill color - numerical (percentage)
+820,emoVis-7,TIM截图20200630154806.png,block chart,unit + fill color – numerical (percentage)
+821,emoVis-7,TIM截图20200630155021.png,block chart,unit + fill color – numerical (Quantity)
+822,emoVis-7,TIM截图20200630155045.png,block chart,unit + fill color – numerical (Quantity)
+823,emoVis-7,TIM截图20200630155110.png,block chart,unit + fill color – numerical (Quantity)
+824,emoVis-7,TIM截图20200630155229.png,block chart,unit + fill color – numerical (percentage)
+825,emoVis-7,TIM截图20200630155239.png,area,semantics – categorical
+826,emoVis-7,TIM截图20200630155418.png,block chart,height + fill color - numerical (percentage)
+827,emoVis-7,TIM截图20200630155437.png,block chart,height - numerical (quantity)
+828,emoVis-7,TIM截图20200630155658.png,area,area - numerical (quantity)
+829,emoVis-7,TIM截图20200630155901.png,block chart,unit + fill color – numerical (Quantity)
+830,emoVis-7,TIM截图20200630155929.png,bar chart,semantics – categorical
+831,emoVis-7,TIM截图20200630155952.png,block chart,unit + fill color – numerical (Quantity)
+832,emoVis-7,TIM截图20200630160129.png,block chart,unit + fill color – numerical (percentage)
+833,emoVis-7,TIM截图20200630160222.png,block chart,unit + fill color – numerical (percentage)
+834,emoVis-7,TIM截图20200630160226.png,block chart,unit + fill color – numerical (percentage)
+835,emoVis-7,TIM截图20200630160230.png,area,area - numerical (quantity)
+836,emoVis-7,TIM截图20200630160235.png,block chart,unit + fill color – numerical (percentage)
+837,emoVis-7,TIM截图20200630160300.png,bar chart,semantics – categorical
+838,emoVis-7,TIM截图20200630160315.png,area,area - numerical (quantity)
+839,emoVis-7,TIM截图20200630160324.png,block chart,unit + fill color – numerical (percentage)
+840,pictogram数据集569张,2018-holiday-survey-of-consumers-1600x.png,block chart,unit + fill color – numerical (percentage)
+841,pictogram数据集569张,309.jpg,bar chart,semantics – categorical
+842,pictogram数据集569张,4.png,block chart,unit + fill color – numerical (percentage)
+843,pictogram数据集569张,402.png,block chart,height + fill color - numerical (percentage)
+844,pictogram数据集569张,479.png,block chart,unit + fill color – numerical (Quantity) +categorical
+845,pictogram数据集569张,726.jpg,bar chart,height - numerical (quantity)
+846,pictogram数据集569张,american-public-opinion-trumps-the-border-wall-1600x.png,block chart,unit + fill color – numerical (percentage)
+847,pictogram数据集569张,Barrie Population.png,area,area - numerical (quantity)
+848,pictogram数据集569张,DVP_101_200-45.png,bar chart,height - numerical (quantity)
+849,pictogram数据集569张,DVP_101_200-51.png,area,area - numerical (quantity)
+850,pictogram数据集569张,DVP_1_100-53.png,block chart,height + fill color - numerical (percentage)
+851,pictogram数据集569张,DVP_1_100-54.png,block chart,height + fill color - numerical (percentage)
+852,pictogram数据集569张,example-excel-pictograph.png,bar chart,unit + fill color – numerical (Quantity)
+853,pictogram数据集569张,fortune-500-ceos-2018-1600x.png,block chart,unit + fill color – numerical (percentage)
+854,pictogram数据集569张,Germans-world-travel-champs-1600x.png,block chart,unit + fill color – numerical (percentage)
+855,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-2007-Top-10-Countries-by-Military-Expenditure-PPP.png,bar chart,unit + fill color – numerical (Quantity)
+856,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-2007-Top-10-Countries-by-Military-Expenditure-PPP42.png,bar chart,unit + fill color – numerical (Quantity)
+857,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-A-Graph-to-Show-the-Increse-in-Subscibers-on-YouTube-to-Anonymous-videos.png,bar chart,unit + fill color – numerical (percentage)
+858,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Academic-Costs-For-Residents-2015-16.png,bar chart,unit + fill color – numerical (Quantity)
+859,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Average-Energy-Prices-For-Manufacturers (1).png,bar chart,unit + fill color – numerical (Quantity) +categorical
+860,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Barrie-Population82.png,bar chart,unit + fill color – numerical (Quantity)
+861,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Cities-With-The-Most-Skyscrapers (1).png,bar chart,unit + fill color – numerical (Quantity)
+862,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Computer-And-Internet-Use-At-Home-Over-Time (1).png,bar chart,unit + fill color – numerical (percentage)
+863,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Manufacturing-In-America.png,bar chart,height - numerical (quantity)
+864,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Peru-Wheat-Area-And-Production (1).png,bar chart,unit + fill color – numerical (Quantity)
+865,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Picture-Graph.png,bar chart,height - numerical (quantity)
+866,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Population-Growth-by-Continent-2010-2013.png,area,area - numerical (quantity)
+867,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Production-Of-Biofuels (1).png,block chart,unit + fill color – numerical (percentage)
+868,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Regional-Population-Growth-From-2010-To-2016.png,area,area - numerical (quantity)
+869,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-The-Increse-In-Subscibers-On-YouTube-To-Anonymous-Videos.png,bar chart,unit + fill color – numerical (percentage)
+870,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Total-Value-of-Manufacturers-shipments.png,bar chart,height - numerical (quantity)
+871,pictogram数据集569张,Graphs-and-Charts-Picture-Graphs-Unemployment-Rates-Of-Persons-25-Years-Old-And-Over.png,bar chart,unit + fill color – numerical (percentage)
+872,pictogram数据集569张,how-s-life-in-sweden-1600x.png,block chart,unit + fill color – numerical (Quantity)
+873,pictogram数据集569张,images (3).png,block chart,height + fill color - numerical (percentage)
+874,pictogram数据集569张,images(4).png,bar chart,unit + fill color – numerical (percentage)
+875,pictogram数据集569张,IMG_0035(20200115-225530).JPG,block chart,semantics – categorical
+876,pictogram数据集569张,IMG_0036(20200115-230017).JPG,block chart,unit + fill color – numerical (Quantity)
+877,pictogram数据集569张,pictograph.png,block chart,unit + fill color – numerical (percentage)
+878,pictogram数据集569张,romania-the-most-religious-out-of-34-european-contries-1600x.png,block chart,unit + fill color – numerical (percentage)
+879,pictogram数据集569张,Sample-Infographics-Computer-and-Internet-Use-in-the-United-States.png,area,area - numerical (quantity)
+880,pictogram数据集569张,Sample-Infographics-World-Population-Infographics.png,block chart,unit + fill color – numerical (Quantity) +categorical
+881,pictogram数据集569张,Sample-Pictorial-Chart-Small-Business-Statistics-UK-2013.png,number,semantics – categorical
+882,pictogram数据集569张,TIM截图20200302124924.png,bar chart,unit + fill color – numerical (Quantity)
+883,pictogram数据集569张,TIM截图20200313165038.png,area,area - numerical (quantity)
+884,pictogram数据集569张,TIM截图20200313165059.png,area,area - numerical (quantity)
+885,pictogram数据集569张,TIM截图20200313165134.png,area,area - numerical (quantity)
+886,pictogram数据集569张,TIM截图20200313165144.png,area,area - numerical (quantity)
+887,pictogram数据集569张,TIM截图20200313165204.png,area,area - numerical (quantity)
+888,pictogram数据集569张,TIM截图20200313165401.png,block chart,unit + fill color – numerical (Quantity) +categorical
+889,pictogram数据集569张,TIM截图20200313165423.png,block chart,unit + fill color – numerical (Quantity) +categorical
+890,pictogram数据集569张,TIM截图20200313165645.png,area,area - numerical (quantity)
+891,pictogram数据集569张,TIM截图20200313165701.png,block chart,unit + fill color – numerical (percentage)
+892,pictogram数据集569张,TIM截图20200313170221.png,block chart,unit + fill color – numerical (Quantity) +categorical
+893,pictogram数据集569张,TIM截图20200313170257.png,number,semantics – categorical
+894,pictogram数据集569张,TIM截图20200313170320.png,number,semantics – categorical
+895,pictogram数据集569张,TIM截图20200313170606.png,block chart,unit + fill color – numerical (percentage)
+896,pictogram数据集569张,TIM截图20200313170710 autumn.png,block chart,unit + fill color – numerical (Quantity) +categorical
+897,pictogram数据集569张,TIM截图20200313170745.png,number,semantics – categorical
+898,pictogram数据集569张,TIM截图20200313170949.png,block chart,unit + fill color – numerical (percentage)
+899,pictogram数据集569张,TIM截图20200313171929.png,block chart,unit + fill color – numerical (Quantity) +categorical
+900,pictogram数据集569张,TIM截图20200313210332.png,number,semantics – categorical
+901,pictogram数据集569张,TIM截图20200313210347.png,bar chart,height - numerical (quantity)
+902,pictogram数据集569张,TIM截图20200313212441.png,block chart,unit + fill color – numerical (percentage)
+903,pictogram数据集569张,TIM截图20200323110208.png,block chart,unit + fill color – numerical (percentage)
+904,pictogram数据集569张,TIM截图20200323110225.png,number,semantics – categorical
+905,pictogram数据集569张,TIM截图20200323110251.png,block chart,unit + fill color – numerical (percentage)
+906,pictogram数据集569张,TIM截图20200323110306.png,number,semantics – categorical
+907,pictogram数据集569张,TIM截图20200323110319.png,number,semantics – categorical
+908,pictogram数据集569张,TIM截图20200323110331.png,block chart,unit + fill color – numerical (Quantity)
+909,pictogram数据集569张,TIM截图20200323114756.png,number,semantics – categorical
+910,pictogram数据集569张,TIM截图20200323114823.png,bar chart,height - numerical (quantity)
+911,pictogram数据集569张,TIM截图20200323114827.png,bar chart,unit + fill color – numerical (Quantity)
+912,pictogram数据集569张,TIM截图20200323114835.png,bar chart,unit + fill color – numerical (percentage)
+913,pictogram数据集569张,TIM截图20200323114847.png,number,semantics – categorical
+914,pictogram数据集569张,TIM截图20200323114855.png,block chart,unit + fill color – numerical (percentage)
+915,pictogram数据集569张,TIM截图20200323114901.png,block chart,unit + fill color – numerical (percentage)
+916,pictogram数据集569张,TIM截图20200323114905.png,block chart,height + fill color - numerical (percentage)
+917,pictogram数据集569张,TIM截图20200323114919.png,block chart,height + fill color - numerical (percentage)
+918,pictogram数据集569张,TIM截图20200323114939.png,bar chart,semantics – categorical
+919,pictogram数据集569张,TIM截图20200323114943.png,area,area - numerical (quantity)
+920,pictogram数据集569张,TIM截图20200323114950.png,block chart,unit + fill color – numerical (percentage)
+921,pictogram数据集569张,TIM截图20200323114955.png,block chart,unit + fill color – numerical (percentage)
+922,pictogram数据集569张,TIM截图20200323114959.png,block chart,unit + fill color – numerical (percentage)
+923,pictogram数据集569张,TIM截图20200323115008.png,block chart,unit + fill color – numerical (Quantity)
+924,pictogram数据集569张,TIM截图20200323115014.png,circle,semantics – categorical
+925,pictogram数据集569张,TIM截图20200323115021.png,number,semantics – categorical
+926,pictogram数据集569张,TIM截图20200323115047.png,bar chart,semantics – categorical
+927,pictogram数据集569张,TIM截图20200323115103.png,number,semantics – categorical
+928,pictogram数据集569张,TIM截图20200323115108.png,number,semantics – categorical
+929,pictogram数据集569张,TIM截图20200323115142.png,block chart,unit + fill color – numerical (percentage)
+930,pictogram数据集569张,TIM截图20200323115146.png,area,area - numerical (quantity)
+931,pictogram数据集569张,TIM截图20200323115215.png,number,semantics – categorical
+932,pictogram数据集569张,TIM截图20200323115235.png,number,semantics – categorical
+933,pictogram数据集569张,TIM截图20200323115243.png,block chart,height + fill color - numerical (percentage)
+934,pictogram数据集569张,TIM截图20200323115249.png,number,semantics – categorical
+935,pictogram数据集569张,TIM截图20200323115259.png,number,semantics – categorical
+936,pictogram数据集569张,TIM截图20200323115345.png,block chart,unit + fill color – numerical (percentage)
+937,pictogram数据集569张,TIM截图20200323115353.png,block chart,height - numerical (quantity)
+938,pictogram数据集569张,TIM截图20200323115358.png,block chart,unit + fill color – numerical (percentage)
+939,pictogram数据集569张,TIM截图20200323115402.png,bar chart,semantics – categorical
+940,pictogram数据集569张,TIM截图20200323115409.png,block chart,unit + fill color – numerical (Quantity)
+941,pictogram数据集569张,TIM截图20200323115415.png,bar chart,height + fill color - numerical (percentage)
+942,pictogram数据集569张,TIM截图20200323115447.png,bar chart,semantics – categorical
+943,pictogram数据集569张,TIM截图20200323115503.png,block chart,height + fill color - numerical (percentage)
+944,pictogram数据集569张,TIM截图20200323115514.png,block chart,unit + fill color – numerical (percentage)
+945,pictogram数据集569张,TIM截图20200323115527.png,bar chart,height + fill color - numerical (percentage)
+946,pictogram数据集569张,TIM截图20200323115537.png,block chart,unit + fill color – numerical (percentage)
+947,pictogram数据集569张,TIM截图20200323115541.png,block chart,unit + fill color – numerical (Quantity)
+948,pictogram数据集569张,TIM截图20200323115548.png,number,semantics – categorical
+949,pictogram数据集569张,TIM截图20200323115609.png,circle,semantics – categorical
+950,pictogram数据集569张,TIM截图20200323115628.png,number,semantics – categorical
+951,pictogram数据集569张,TIM截图20200323115705.png,circle,semantics – categorical
+952,pictogram数据集569张,TIM截图20200323115714.png,number,semantics – categorical
+953,pictogram数据集569张,TIM截图20200323115718.png,number,semantics – categorical
+954,pictogram数据集569张,TIM截图20200323115723.png,block chart,unit + fill color – numerical (percentage)
+955,pictogram数据集569张,TIM截图20200323115727.png,number,semantics – categorical
+956,pictogram数据集569张,TIM截图20200323115739.png,block chart,unit + fill color – numerical (percentage)
+957,pictogram数据集569张,TIM截图20200323115753.png,block chart,unit + fill color – numerical (percentage)
+958,pictogram数据集569张,TIM截图20200323115758.png,block chart,unit + fill color – numerical (percentage)
+959,pictogram数据集569张,TIM截图20200323115808.png,block chart,unit + fill color – numerical (percentage)
+960,pictogram数据集569张,TIM截图20200323115817.png,block chart,unit + fill color – numerical (Quantity) +categorical
+961,pictogram数据集569张,TIM截图20200323115830.png,bar chart,semantics – categorical
+962,pictogram数据集569张,TIM截图20200323115846.png,bar chart,semantics – categorical
+963,pictogram数据集569张,TIM截图20200323115906.png,bar chart,semantics – categorical
+964,pictogram数据集569张,TIM截图20200323115914.png,bar chart,semantics – categorical
+965,pictogram数据集569张,TIM截图20200323115920.png,number,semantics – categorical
+966,pictogram数据集569张,TIM截图20200323115924.png,bar chart,height + fill color - numerical (percentage)
+967,pictogram数据集569张,TIM截图20200323115958.png,number,semantics – categorical
+968,pictogram数据集569张,TIM截图20200323120002.png,number,unit + fill color – numerical (Quantity)
+969,pictogram数据集569张,TIM截图20200323120029.png,map,unit + fill color – numerical (Quantity)
+970,pictogram数据集569张,TIM截图20200323120043.png,block chart,unit + fill color – numerical (percentage)
+971,pictogram数据集569张,TIM截图20200323120055.png,number,semantics – categorical
+972,pictogram数据集569张,TIM截图20200323120109.png,bar chart,unit + fill color – numerical (percentage)
+973,pictogram数据集569张,TIM截图20200323120133.png,block chart,height + fill color - numerical (percentage)
+974,pictogram数据集569张,TIM截图20200323120154.png,block chart,unit + fill color – numerical (percentage)
+975,pictogram数据集569张,TIM截图20200323120158.png,number,semantics – categorical
+976,pictogram数据集569张,TIM截图20200323120203.png,block chart,unit + fill color – numerical (percentage)
+977,pictogram数据集569张,TIM截图20200323120210.png,block chart,unit + fill color – numerical (percentage)
+978,pictogram数据集569张,TIM截图20200323120216.png,bar chart,unit + fill color – numerical (percentage)
+979,pictogram数据集569张,TIM截图20200323120220.png,bar chart,unit + fill color – numerical (percentage)
+980,pictogram数据集569张,TIM截图20200323120225.png,bar chart,unit + fill color – numerical (percentage)
+981,pictogram数据集569张,TIM截图20200323120239.png,number,semantics – categorical
+982,pictogram数据集569张,TIM截图20200323120246.png,block chart,height + fill color - numerical (percentage)
+983,pictogram数据集569张,TIM截图20200323120257.png,number,semantics – categorical
+984,pictogram数据集569张,TIM截图20200323120311.png,area,area - numerical (quantity)
+985,pictogram数据集569张,TIM截图20200323120320.png,block chart,unit + fill color – numerical (percentage)
+986,pictogram数据集569张,TIM截图20200323120325.png,block chart,unit + fill color – numerical (percentage)
+987,pictogram数据集569张,TIM截图20200323120330.png,block chart,unit + fill color – numerical (percentage)
+988,pictogram数据集569张,TIM截图20200323120343.png,area,area - numerical (quantity)
+989,pictogram数据集569张,TIM截图20200323120356.png,area,area - numerical (quantity)
+990,pictogram数据集569张,TIM截图20200323120401.png,number,semantics – categorical
+991,pictogram数据集569张,TIM截图20200323120501.png,number,semantics – categorical
+992,pictogram数据集569张,TIM截图20200323120517.png,block chart,height + fill color - numerical (percentage)
+993,pictogram数据集569张,TIM截图20200323120526.png,circle,semantics – categorical
+994,pictogram数据集569张,TIM截图20200323120541.png,block chart,height + fill color - numerical (percentage)
+995,pictogram数据集569张,TIM截图20200323120545.png,circle,semantics – categorical
+996,pictogram数据集569张,TIM截图20200323120620.png,number,semantics – categorical
+997,pictogram数据集569张,TIM截图20200323120628.png,number,semantics – categorical
+998,pictogram数据集569张,TIM截图20200323120638.png,area,area - numerical (quantity)
+999,pictogram数据集569张,TIM截图20200323120649.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1000,pictogram数据集569张,TIM截图20200323120656.png,block chart,unit + fill color – numerical (Quantity)
+1001,pictogram数据集569张,TIM截图20200323120701.png,area,area - numerical (quantity)
+1002,pictogram数据集569张,TIM截图20200323120713.png,area,area - numerical (quantity)
+1003,pictogram数据集569张,TIM截图20200323120724.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1004,pictogram数据集569张,TIM截图20200323120731.png,block chart,height + fill color - numerical (percentage)
+1005,pictogram数据集569张,TIM截图20200323120745.png,area,area - numerical (quantity)
+1006,pictogram数据集569张,TIM截图20200323120800.png,block chart,height + fill color - numerical (percentage)
+1007,pictogram数据集569张,TIM截图20200323120804.png,block chart,unit + fill color – numerical (percentage)
+1008,pictogram数据集569张,TIM截图20200323120810.png,block chart,unit + fill color – numerical (percentage)
+1009,pictogram数据集569张,TIM截图20200323120815.png,block chart,unit + fill color – numerical (percentage)
+1010,pictogram数据集569张,TIM截图20200323120819.png,block chart,unit + fill color – numerical (percentage)
+1011,pictogram数据集569张,TIM截图20200323120824.png,block chart,unit + fill color – numerical (percentage)
+1012,pictogram数据集569张,TIM截图20200323120832.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1013,pictogram数据集569张,TIM截图20200323120849.png,number,semantics – categorical
+1014,pictogram数据集569张,TIM截图20200323120853.png,number,semantics – categorical
+1015,pictogram数据集569张,TIM截图20200323120904.png,block chart,unit + fill color – numerical (Quantity)
+1016,pictogram数据集569张,TIM截图20200323120916.png,block chart,unit + fill color – numerical (percentage)
+1017,pictogram数据集569张,TIM截图20200323120922.png,line chart,semantics – categorical
+1018,pictogram数据集569张,TIM截图20200323120942.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1019,pictogram数据集569张,TIM截图20200323120950.png,area,area - numerical (quantity)
+1020,pictogram数据集569张,TIM截图20200323121003.png,block chart,height + fill color - numerical (percentage)
+1021,pictogram数据集569张,TIM截图20200323121008.png,block chart,unit + fill color – numerical (percentage)
+1022,pictogram数据集569张,TIM截图20200323121018.png,block chart,height + fill color - numerical (percentage)
+1023,pictogram数据集569张,TIM截图20200323121023.png,block chart,unit + fill color – numerical (percentage)
+1024,pictogram数据集569张,TIM截图20200323121028.png,block chart,height + fill color - numerical (percentage)
+1025,pictogram数据集569张,TIM截图20200323121033.png,block chart,height + fill color - numerical (percentage)
+1026,pictogram数据集569张,TIM截图20200323121040.png,block chart,unit + fill color – numerical (percentage)
+1027,pictogram数据集569张,TIM截图20200323121140.png,block chart,semantics – categorical
+1028,pictogram数据集569张,TIM截图20200323121148.png,block chart,semantics – categorical
+1029,pictogram数据集569张,TIM截图20200323121203.png,number,semantics – categorical
+1030,pictogram数据集569张,TIM截图20200323121208.png,block chart,semantics – categorical
+1031,pictogram数据集569张,TIM截图20200323121214.png,block chart,semantics – categorical
+1032,pictogram数据集569张,TIM截图20200323121229.png,number,semantics – categorical
+1033,pictogram数据集569张,TIM截图20200323121233.png,number,semantics – categorical
+1034,pictogram数据集569张,TIM截图20200323121243.png,number,semantics – categorical
+1035,pictogram数据集569张,TIM截图20200323121327.png,block chart,height + fill color - numerical (percentage)
+1036,pictogram数据集569张,TIM截图20200323121333.png,bar chart,semantics – categorical
+1037,pictogram数据集569张,TIM截图20200323121346.png,block chart,unit + fill color – numerical (percentage)
+1038,pictogram数据集569张,TIM截图20200323121354.png,circle,semantics – categorical
+1039,pictogram数据集569张,TIM截图20200323121358.png,circle,semantics – categorical
+1040,pictogram数据集569张,TIM截图20200323121402.png,circle,semantics – categorical
+1041,pictogram数据集569张,TIM截图20200323121406.png,circle,semantics – categorical
+1042,pictogram数据集569张,TIM截图20200323121411.png,circle,semantics – categorical
+1043,pictogram数据集569张,TIM截图20200323121418.png,area,area - numerical (quantity)
+1044,pictogram数据集569张,TIM截图20200323121429.png,circle,semantics – categorical
+1045,pictogram数据集569张,TIM截图20200323121442.png,number,semantics – categorical
+1046,pictogram数据集569张,TIM截图20200323121447.png,bar chart,unit + fill color – numerical (Quantity)
+1047,pictogram数据集569张,TIM截图20200323121452.png,bar chart,unit + fill color – numerical (Quantity)
+1048,pictogram数据集569张,TIM截图20200323121458.png,bar chart,height + fill color - numerical (percentage)
+1049,pictogram数据集569张,TIM截图20200323121513.png,bar chart,semantics – categorical
+1050,pictogram数据集569张,TIM截图20200323121525.png,bar chart,height - numerical (quantity)
+1051,pictogram数据集569张,TIM截图20200323121531.png,circle,semantics – categorical
+1052,pictogram数据集569张,TIM截图20200323121535.png,circle,semantics – categorical
+1053,pictogram数据集569张,TIM截图20200323121539.png,bar chart,semantics – categorical
+1054,pictogram数据集569张,TIM截图20200323121545.png,bar chart,unit + fill color – numerical (percentage)
+1055,pictogram数据集569张,TIM截图20200323121550.png,block chart,unit + fill color – numerical (percentage)
+1056,pictogram数据集569张,TIM截图20200323121601.png,block chart,semantics – categorical
+1057,pictogram数据集569张,TIM截图20200323121611.png,circle,semantics – categorical
+1058,pictogram数据集569张,TIM截图20200323121625.png,bar chart,semantics – categorical
+1059,pictogram数据集569张,TIM截图20200323121631.png,area,area - numerical (quantity)
+1060,pictogram数据集569张,TIM截图20200323121635.png,block chart,height + fill color - numerical (percentage)
+1061,pictogram数据集569张,TIM截图20200323121653.png,bar chart,semantics – categorical
+1062,pictogram数据集569张,TIM截图20200323121658.png,bar chart,height - numerical (quantity)
+1063,pictogram数据集569张,TIM截图20200323121705.png,block chart,height + fill color - numerical (percentage)
+1064,pictogram数据集569张,TIM截图20200323121711.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1065,pictogram数据集569张,TIM截图20200323121716.png,tree and graph,semantics – categorical
+1066,pictogram数据集569张,TIM截图20200323121722.png,bar chart,height + fill color - numerical (percentage)
+1067,pictogram数据集569张,TIM截图20200323121728.png,area,area - numerical (quantity)
+1068,pictogram数据集569张,TIM截图20200323121733.png,block chart,unit + fill color – numerical (percentage)
+1069,pictogram数据集569张,TIM截图20200323121737.png,number,semantics – categorical
+1070,pictogram数据集569张,TIM截图20200323121743.png,number,semantics – categorical
+1071,pictogram数据集569张,TIM截图20200323121748.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1072,pictogram数据集569张,TIM截图20200323121753.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1073,pictogram数据集569张,TIM截图20200323121904.png,block chart,unit + fill color – numerical (Quantity)
+1074,pictogram数据集569张,TIM截图20200323121909.png,block chart,height + fill color - numerical (percentage)
+1075,pictogram数据集569张,TIM截图20200323121925.png,bar chart,semantics – categorical
+1076,pictogram数据集569张,TIM截图20200323121936.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1077,pictogram数据集569张,TIM截图20200323121942.png,number,semantics – categorical
+1078,pictogram数据集569张,TIM截图20200323121949.png,area,semantics – categorical
+1079,pictogram数据集569张,TIM截图20200323122029.png,area,area - numerical (quantity)
+1080,pictogram数据集569张,TIM截图20200323122033.png,area,area - numerical (quantity)
+1081,pictogram数据集569张,TIM截图20200323122225.png,bar chart,semantics – categorical
+1082,pictogram数据集569张,TIM截图20200323122240.png,area,semantics – categorical
+1083,pictogram数据集569张,TIM截图20200323122246.png,area,area - numerical (quantity)
+1084,pictogram数据集569张,TIM截图20200323122254.png,number,semantics – categorical
+1085,pictogram数据集569张,TIM截图20200323122341.png,number,semantics – categorical
+1086,pictogram数据集569张,TIM截图20200323122349.png,number,semantics – categorical
+1087,pictogram数据集569张,TIM截图20200323122414.png,area,semantics – categorical
+1088,pictogram数据集569张,TIM截图20200323122428.png,number,semantics – categorical
+1089,pictogram数据集569张,TIM截图20200323122457.png,line chart,semantics – categorical
+1090,pictogram数据集569张,TIM截图20200323122537.png,bar chart,semantics – categorical
+1091,pictogram数据集569张,TIM截图20200323122547.png,number,semantics – categorical
+1092,pictogram数据集569张,TIM截图20200323122553.png,bar chart,unit + fill color – numerical (Quantity)
+1093,pictogram数据集569张,TIM截图20200323122601.png,number,semantics – categorical
+1094,pictogram数据集569张,TIM截图20200323122618.png,area,area - numerical (quantity)
+1095,pictogram数据集569张,TIM截图20200323122627.png,block chart,unit + fill color – numerical (Quantity)
+1096,pictogram数据集569张,TIM截图20200323122638.png,bar chart,height - numerical (quantity)
+1097,pictogram数据集569张,TIM截图20200323122642.png,bar chart,height - numerical (quantity)
+1098,pictogram数据集569张,TIM截图20200323122741.png,block chart,unit + fill color – numerical (percentage)
+1099,pictogram数据集569张,TIM截图20200323122751.png,block chart,unit + fill color – numerical (percentage)
+1100,pictogram数据集569张,TIM截图20200323122755.png,block chart,unit + fill color – numerical (Quantity)
+1101,pictogram数据集569张,TIM截图20200323122804.png,circle,semantics – categorical
+1102,pictogram数据集569张,TIM截图20200323122817.png,block chart,unit + fill color – numerical (percentage)
+1103,pictogram数据集569张,TIM截图20200323122828.png,circle,semantics – categorical
+1104,pictogram数据集569张,TIM截图20200323122836.png,block chart,unit + fill color – numerical (percentage)
+1105,pictogram数据集569张,TIM截图20200323122859.png,circle,semantics – categorical
+1106,pictogram数据集569张,TIM截图20200323122916.png,area,area - numerical (quantity)
+1107,pictogram数据集569张,TIM截图20200323122922.png,area,area - numerical (quantity)
+1108,pictogram数据集569张,TIM截图20200323122939.png,block chart,unit + fill color – numerical (Quantity)
+1109,pictogram数据集569张,TIM截图20200323122959.png,block chart,semantics – categorical
+1110,pictogram数据集569张,TIM截图20200323123009.png,circle,semantics – categorical
+1111,pictogram数据集569张,TIM截图20200323123026.png,circle,semantics – categorical
+1112,pictogram数据集569张,TIM截图20200323123058.png,block chart,unit + fill color – numerical (Quantity)
+1113,pictogram数据集569张,TIM截图20200323123105.png,area,area - numerical (quantity)
+1114,pictogram数据集569张,TIM截图20200323123111.png,point,semantics – categorical
+1115,pictogram数据集569张,TIM截图20200323123127.png,point,semantics – categorical
+1116,pictogram数据集569张,TIM截图20200323123136.png,bar chart,unit + fill color – numerical (Quantity)
+1117,pictogram数据集569张,TIM截图20200323123142.png,circle,semantics – categorical
+1118,pictogram数据集569张,TIM截图20200323123157.png,number,semantics – categorical
+1119,pictogram数据集569张,TIM截图20200323123215.png,circle,semantics – categorical
+1120,pictogram数据集569张,TIM截图20200323123232.png,circle,semantics – categorical
+1121,pictogram数据集569张,TIM截图20200323123248.png,bar chart,semantics – categorical
+1122,pictogram数据集569张,TIM截图20200323123308.png,bar chart,height + fill color - numerical (percentage)
+1123,pictogram数据集569张,TIM截图20200323123318.png,bar chart,semantics – categorical
+1124,pictogram数据集569张,TIM截图20200323123327.png,block chart,semantics – categorical
+1125,pictogram数据集569张,TIM截图20200323123330.png,number,semantics – categorical
+1126,pictogram数据集569张,TIM截图20200323123349.png,block chart,unit + fill color – numerical (percentage)
+1127,pictogram数据集569张,TIM截图20200323123401.png,bar chart,unit + fill color – numerical (Quantity)
+1128,pictogram数据集569张,TIM截图20200323123413.png,bar chart,height - numerical (quantity)
+1129,pictogram数据集569张,TIM截图20200323123420.png,bar chart,height + fill color - numerical (percentage)
+1130,pictogram数据集569张,TIM截图20200323123435.png,block chart,height + fill color - numerical (percentage)
+1131,pictogram数据集569张,TIM截图20200323123446.png,block chart,unit + fill color – numerical (percentage)
+1132,pictogram数据集569张,TIM截图20200323123452.png,block chart,unit + fill color – numerical (percentage)
+1133,pictogram数据集569张,TIM截图20200323123459.png,area,area - numerical (quantity)
+1134,pictogram数据集569张,TIM截图20200323123503.png,bar chart,height - numerical (quantity)
+1135,pictogram数据集569张,TIM截图20200323123522.png,bar chart,semantics – categorical
+1136,pictogram数据集569张,TIM截图20200323123533.png,block chart,unit + fill color – numerical (Quantity)
+1137,pictogram数据集569张,TIM截图20200323123540.png,block chart,unit + fill color – numerical (Quantity)
+1138,pictogram数据集569张,TIM截图20200323123547.png,block chart,unit + fill color – numerical (percentage)
+1139,pictogram数据集569张,TIM截图20200323123559.png,block chart,height + fill color - numerical (percentage)
+1140,pictogram数据集569张,TIM截图20200323123607.png,bar chart,semantics – categorical
+1141,pictogram数据集569张,TIM截图20200323123711.png,bar chart,semantics – categorical
+1142,pictogram数据集569张,TIM截图20200323123722.png,bar chart,semantics – categorical
+1143,pictogram数据集569张,TIM截图20200323123733.png,bar chart,semantics – categorical
+1144,pictogram数据集569张,TIM截图20200323123747.png,bar chart,semantics – categorical
+1145,pictogram数据集569张,TIM截图20200323123827.png,block chart,unit + fill color – numerical (percentage)
+1146,pictogram数据集569张,TIM截图20200323123839.png,block chart,unit + fill color – numerical (percentage)
+1147,pictogram数据集569张,TIM截图20200323123902.png,bar chart,semantics – categorical
+1148,pictogram数据集569张,TIM截图20200323123910.png,block chart,unit + fill color – numerical (percentage)
+1149,pictogram数据集569张,TIM截图20200323123937.png,circle,semantics – categorical
+1150,pictogram数据集569张,TIM截图20200323123942.png,bar chart,height - numerical (quantity)
+1151,pictogram数据集569张,TIM截图20200323123947.png,block chart,unit + fill color – numerical (percentage)
+1152,pictogram数据集569张,TIM截图20200323123951.png,number,semantics – categorical
+1153,pictogram数据集569张,TIM截图20200323123956.png,number,semantics – categorical
+1154,pictogram数据集569张,TIM截图20200323124009.png,block chart,height + fill color - numerical (percentage)
+1155,pictogram数据集569张,TIM截图20200323124015.png,block chart,unit + fill color – numerical (percentage)
+1156,pictogram数据集569张,TIM截图20200323124030.png,block chart,unit + fill color – numerical (percentage)
+1157,pictogram数据集569张,TIM截图20200323124036.png,circle,semantics – categorical
+1158,pictogram数据集569张,TIM截图20200323124054.png,circle,semantics – categorical
+1159,pictogram数据集569张,TIM截图20200323124112.png,number,semantics – categorical
+1160,pictogram数据集569张,TIM截图20200323124129.png,block chart,unit + fill color – numerical (percentage)
+1161,pictogram数据集569张,TIM截图20200323124136.png,area,area - numerical (quantity)
+1162,pictogram数据集569张,TIM截图20200323124147.png,number,semantics – categorical
+1163,pictogram数据集569张,TIM截图20200323124151.png,block chart,unit + fill color – numerical (percentage)
+1164,pictogram数据集569张,TIM截图20200323124209.png,block chart,unit + fill color – numerical (percentage)
+1165,pictogram数据集569张,TIM截图20200323124212.png,area,area - numerical (quantity)
+1166,pictogram数据集569张,TIM截图20200323124216.png,number,semantics – categorical
+1167,pictogram数据集569张,TIM截图20200323124219.png,bar chart,height - numerical (quantity)
+1168,pictogram数据集569张,TIM截图20200323124249.png,circle,semantics – categorical
+1169,pictogram数据集569张,TIM截图20200323124253.png,block chart,unit + fill color – numerical (percentage)
+1170,pictogram数据集569张,TIM截图20200323124301.png,number,semantics – categorical
+1171,pictogram数据集569张,TIM截图20200323124305.png,block chart,unit + fill color – numerical (Quantity)
+1172,pictogram数据集569张,TIM截图20200323124308.png,bar chart,semantics – categorical
+1173,pictogram数据集569张,TIM截图20200323124318.png,bar chart,semantics – categorical
+1174,pictogram数据集569张,TIM截图20200323124325.png,bar chart,height - numerical (quantity)
+1175,pictogram数据集569张,TIM截图20200323124334.png,bar chart,height - numerical (quantity)
+1176,pictogram数据集569张,TIM截图20200323124358.png,bar chart,height - numerical (quantity)
+1177,pictogram数据集569张,TIM截图20200323124401.png,number,semantics – categorical
+1178,pictogram数据集569张,TIM截图20200323124405.png,number,semantics – categorical
+1179,pictogram数据集569张,TIM截图20200323124415.png,bar chart,height - numerical (quantity)
+1180,pictogram数据集569张,TIM截图20200323124421.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1181,pictogram数据集569张,TIM截图20200323124434.png,bar chart,height - numerical (quantity)
+1182,pictogram数据集569张,TIM截图20200323124449.png,block chart,unit + fill color – numerical (Quantity)
+1183,pictogram数据集569张,TIM截图20200323124457.png,bar chart,semantics – categorical
+1184,pictogram数据集569张,TIM截图20200323124505.png,bar chart,semantics – categorical
+1185,pictogram数据集569张,TIM截图20200323124509.png,block chart,height + fill color - numerical (percentage)
+1186,pictogram数据集569张,TIM截图20200323124513.png,block chart,unit + fill color – numerical (Quantity)
+1187,pictogram数据集569张,TIM截图20200323124517.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1188,pictogram数据集569张,TIM截图20200323124525.png,area,area - numerical (quantity)
+1189,pictogram数据集569张,TIM截图20200323124529.png,bar chart,unit + fill color – numerical (Quantity)
+1190,pictogram数据集569张,TIM截图20200323124533.png,bar chart,height + fill color - numerical (percentage)
+1191,pictogram数据集569张,TIM截图20200323124538.png,block chart,height + fill color - numerical (percentage)
+1192,pictogram数据集569张,TIM截图20200323124552.png,block chart,unit + fill color – numerical (Quantity)
+1193,pictogram数据集569张,TIM截图20200323124611.png,bar chart,height + fill color - numerical (percentage)
+1194,pictogram数据集569张,TIM截图20200323124615.png,number,semantics – categorical
+1195,pictogram数据集569张,TIM截图20200323124620.png,area,semantics – categorical
+1196,pictogram数据集569张,TIM截图20200323124626.png,bar chart,height - numerical (quantity)
+1197,pictogram数据集569张,TIM截图20200323124630.png,block chart,unit + fill color – numerical (Quantity)
+1198,pictogram数据集569张,TIM截图20200323124637.png,bar chart,unit + fill color – numerical (Quantity) +categorical
+1199,pictogram数据集569张,TIM截图20200323124641.png,circle,semantics – categorical
+1200,pictogram数据集569张,TIM截图20200323124653.png,area,area - numerical (quantity)
+1201,pictogram数据集569张,TIM截图20200323124657.png,block chart,unit + fill color – numerical (Quantity)
+1202,pictogram数据集569张,TIM截图20200323124713.png,block chart,height + fill color - numerical (percentage)
+1203,pictogram数据集569张,TIM截图20200323124718.png,area,area - numerical (quantity)
+1204,pictogram数据集569张,TIM截图20200323124831.png,number,semantics – categorical
+1205,pictogram数据集569张,TIM截图20200323124838.png,number,semantics – categorical
+1206,pictogram数据集569张,TIM截图20200323124848.png,number,semantics – categorical
+1207,pictogram数据集569张,TIM截图20200323124855.png,bar chart,height - numerical (quantity)
+1208,pictogram数据集569张,TIM截图20200323124902.png,bar chart,semantics – categorical
+1209,pictogram数据集569张,TIM截图20200323124907.png,block chart,unit + fill color – numerical (percentage)
+1210,pictogram数据集569张,TIM截图20200323124918.png,number,semantics – categorical
+1211,pictogram数据集569张,TIM截图20200323124924.png,bar chart,height - numerical (quantity)
+1212,pictogram数据集569张,TIM截图20200323124942.png,block chart,unit + fill color – numerical (Quantity)
+1213,pictogram数据集569张,TIM截图20200323124947.png,circle,semantics – categorical
+1214,pictogram数据集569张,TIM截图20200323124952.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1215,pictogram数据集569张,TIM截图20200323125000.png,block chart,unit + fill color – numerical (percentage)
+1216,pictogram数据集569张,TIM截图20200323125005.png,bar chart,semantics – categorical
+1217,pictogram数据集569张,TIM截图20200323125010.png,block chart,unit + fill color – numerical (percentage)
+1218,pictogram数据集569张,TIM截图20200323125013.png,bar chart,semantics – categorical
+1219,pictogram数据集569张,TIM截图20200323125018.png,area,area - numerical (quantity)
+1220,pictogram数据集569张,TIM截图20200323125023.png,number,semantics – categorical
+1221,pictogram数据集569张,TIM截图20200323125109.png,circle,semantics – categorical
+1222,pictogram数据集569张,TIM截图20200323125136.png,block chart,unit + fill color – numerical (Quantity)
+1223,pictogram数据集569张,TIM截图20200323125145.png,bar chart,semantics – categorical
+1224,pictogram数据集569张,TIM截图20200323125221.png,circle,semantics – categorical
+1225,pictogram数据集569张,TIM截图20200323125311.png,block chart,height + fill color - numerical (percentage)
+1226,pictogram数据集569张,TIM截图20200323125314.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1227,pictogram数据集569张,TIM截图20200323125321.png,number,semantics – categorical
+1228,pictogram数据集569张,TIM截图20200323125325.png,point,semantics – categorical
+1229,pictogram数据集569张,TIM截图20200323125337.png,number,semantics – categorical
+1230,pictogram数据集569张,TIM截图20200323125357.png,bar chart,height - numerical (quantity)
+1231,pictogram数据集569张,TIM截图20200323125405.png,bar chart,height + fill color - numerical (percentage)
+1232,pictogram数据集569张,TIM截图20200323125411.png,bar chart,unit + fill color – numerical (Quantity)
+1233,pictogram数据集569张,TIM截图20200323125425.png,number,semantics – categorical
+1234,pictogram数据集569张,TIM截图20200323125432.png,number,semantics – categorical
+1235,pictogram数据集569张,TIM截图20200323125439.png,number,semantics – categorical
+1236,pictogram数据集569张,TIM截图20200323125443.png,block chart,unit + fill color – numerical (Quantity)
+1237,pictogram数据集569张,TIM截图20200323125446.png,block chart,unit + fill color – numerical (Quantity)
+1238,pictogram数据集569张,TIM截图20200323125451.png,block chart,unit + fill color – numerical (Quantity)
+1239,pictogram数据集569张,TIM截图20200323125457.png,bar chart,area - numerical (quantity)
+1240,pictogram数据集569张,TIM截图20200323125502.png,bar chart,height - numerical (quantity)
+1241,pictogram数据集569张,TIM截图20200323125509.png,block chart,area - numerical (quantity)
+1242,pictogram数据集569张,TIM截图20200323125512.png,area,area - numerical (quantity)
+1243,pictogram数据集569张,TIM截图20200323125518.png,area,area - numerical (quantity)
+1244,pictogram数据集569张,TIM截图20200323125526.png,area,semantics – categorical
+1245,pictogram数据集569张,TIM截图20200323125530.png,bar chart,height + fill color - numerical (percentage)
+1246,pictogram数据集569张,TIM截图20200323125533.png,circle,semantics – categorical
+1247,pictogram数据集569张,TIM截图20200323125540.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1248,pictogram数据集569张,TIM截图20200323125549.png,block chart,unit + fill color – numerical (percentage)
+1249,pictogram数据集569张,TIM截图20200323125554.png,line chart,semantics – categorical
+1250,pictogram数据集569张,TIM截图20200323125601.png,bar chart,semantics – categorical
+1251,pictogram数据集569张,TIM截图20200323125615.png,block chart,unit + fill color – numerical (Quantity)
+1252,pictogram数据集569张,TIM截图20200323125621.png,bar chart,height + fill color - numerical (percentage)
+1253,pictogram数据集569张,TIM截图20200323125629.png,circle,semantics – categorical
+1254,pictogram数据集569张,TIM截图20200323125634.png,area,area - numerical (quantity)
+1255,pictogram数据集569张,TIM截图20200323125644.png,block chart,height + fill color - numerical (percentage)
+1256,pictogram数据集569张,TIM截图20200323125648.png,block chart,height + fill color - numerical (percentage)
+1257,pictogram数据集569张,TIM截图20200323125652.png,block chart,unit + fill color – numerical (percentage)
+1258,pictogram数据集569张,TIM截图20200323125657.png,block chart,unit + fill color – numerical (Quantity)
+1259,pictogram数据集569张,TIM截图20200323125702.png,number,semantics – categorical
+1260,pictogram数据集569张,TIM截图20200323125706.png,area,area - numerical (quantity)
+1261,pictogram数据集569张,TIM截图20200323125710.png,area,area - numerical (quantity)
+1262,pictogram数据集569张,TIM截图20200323125715.png,area,area - numerical (quantity)
+1263,pictogram数据集569张,TIM截图20200323125721.png,area,semantics – categorical
+1264,pictogram数据集569张,TIM截图20200323125726.png,area,area - numerical (quantity)
+1265,pictogram数据集569张,TIM截图20200323125733.png,block chart,height + fill color - numerical (percentage)
+1266,pictogram数据集569张,TIM截图20200323125744.png,area,area - numerical (quantity)
+1267,pictogram数据集569张,TIM截图20200323125752.png,block chart,unit + fill color – numerical (Quantity)
+1268,pictogram数据集569张,TIM截图20200323125758.png,block chart,unit + fill color – numerical (Quantity)
+1269,pictogram数据集569张,TIM截图20200323125803.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1270,pictogram数据集569张,TIM截图20200323143255.png,block chart,unit + fill color – numerical (Quantity)
+1271,pictogram数据集569张,TIM截图20200522160518.png,block chart,unit + fill color – numerical (Quantity)
+1272,pictogram数据集569张,TIM截图20200522160545.png,number,semantics – categorical
+1273,pictogram数据集569张,TIM截图20200522161009.png,number,semantics – categorical
+1274,pictogram数据集569张,TIM截图20200522161033.png,block chart,unit + fill color – numerical (percentage)
+1275,pictogram数据集569张,TIM截图20200522161101.png,number,semantics – categorical
+1276,pictogram数据集569张,TIM截图20200522161131.png,number,semantics – categorical
+1277,pictogram数据集569张,TIM截图20200522161136.png,number,semantics – categorical
+1278,pictogram数据集569张,TIM截图20200522161157.png,bar chart,height + fill color - numerical (percentage)
+1279,pictogram数据集569张,TIM截图20200522161207.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1280,pictogram数据集569张,TIM截图20200522161217.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1281,pictogram数据集569张,TIM截图20200522161316.png,point,semantics – categorical
+1282,pictogram数据集569张,TIM截图20200522161328.png,bar chart,height + fill color - numerical (percentage)
+1283,pictogram数据集569张,TIM截图20200522161333.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1284,pictogram数据集569张,TIM截图20200522161339.png,bar chart,height - numerical (quantity)
+1285,pictogram数据集569张,TIM截图20200522161347.png,area,semantics – categorical
+1286,pictogram数据集569张,TIM截图20200522161358.png,area,area - numerical (quantity)
+1287,pictogram数据集569张,TIM截图20200522161500.png,bar chart,unit + fill color – numerical (percentage)
+1288,pictogram数据集569张,TIM截图20200522161520.png,bar chart,semantics – categorical
+1289,pictogram数据集569张,TIM截图20200522161636.png,bar chart,height + fill color - numerical (percentage)
+1290,pictogram数据集569张,TIM截图20200522161650.png,area,area - numerical (quantity)
+1291,pictogram数据集569张,TIM截图20200522161702.png,block chart,unit + fill color – numerical (Quantity)
+1292,pictogram数据集569张,TIM截图20200522161714.png,block chart,height + fill color - numerical (percentage)
+1293,pictogram数据集569张,TIM截图20200522161833.png,block chart,unit + fill color – numerical (Quantity)
+1294,pictogram数据集569张,TIM截图20200522161938.png,bar chart,unit + fill color – numerical (Quantity)
+1295,pictogram数据集569张,TIM截图20200522162005.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1296,pictogram数据集569张,TIM截图20200522162017.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1297,pictogram数据集569张,TIM截图20200522162023.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1298,pictogram数据集569张,TIM截图20200522162053.png,bar chart,semantics – categorical
+1299,pictogram数据集569张,TIM截图20200522162127.png,block chart,unit + fill color – numerical (Quantity)
+1300,pictogram数据集569张,TIM截图20200522162217.png,block chart,unit + fill color – numerical (percentage)
+1301,pictogram数据集569张,TIM截图20200522162246.png,block chart,unit + fill color – numerical (percentage)
+1302,pictogram数据集569张,TIM截图20200522162303.png,block chart,unit + fill color – numerical (percentage)
+1303,pictogram数据集569张,TIM截图20200522162402.png,map,unit + fill color – numerical (Quantity) +categorical
+1304,pictogram数据集569张,TIM截图20200522162515.png,bar chart,semantics – categorical
+1305,pictogram数据集569张,TIM截图20200522162614.png,block chart,unit + fill color – numerical (Quantity)
+1306,pictogram数据集569张,TIM截图20200522162919.png,bar chart,semantics – categorical
+1307,pictogram数据集569张,TIM截图20200522162926.png,bar chart,semantics – categorical
+1308,pictogram数据集569张,TIM截图20200522162935.png,bar chart,semantics – categorical
+1309,pictogram数据集569张,TIM截图20200522162943.png,number,semantics – categorical
+1310,pictogram数据集569张,TIM截图20200522163013.png,block chart,unit + fill color – numerical (Quantity)
+1311,pictogram数据集569张,TIM截图20200522163101.png,block chart,unit + fill color – numerical (percentage)
+1312,pictogram数据集569张,TIM截图20200522163154.png,block chart,unit + fill color – numerical (Quantity) +categorical
+1313,pictogram数据集569张,TIM截图20200522163220.png,block chart,unit + fill color – numerical (Quantity)
+1314,pictogram数据集569张,TIM截图20200522163226.png,block chart,unit + fill color – numerical (Quantity)
+1315,pictogram数据集569张,TIM截图20200522163238.png,block chart,unit + fill color – numerical (Quantity)
+1316,pictogram数据集569张,TIM截图20200522163329.png,area,semantics – categorical
+1317,pictogram数据集569张,TIM截图20200522163335.png,block chart,unit + fill color – numerical (Quantity)
+1318,pictogram数据集569张,TIM截图20200522163342.png,block chart,unit + fill color – numerical (Quantity)
+1319,pictogram数据集569张,TIM截图20200522163350.png,block chart,unit + fill color – numerical (Quantity)
+1320,pictogram数据集569张,TIM截图20200522163404.png,block chart,unit + fill color – numerical (Quantity)
+1321,pictogram数据集569张,TIM截图20200522163413.png,bar chart,height - numerical (quantity)
+1322,pictogram数据集569张,TIM截图20200522163418.png,bar chart,height - numerical (quantity)
+1323,pictogram数据集569张,TIM截图20200522163431.png,bar chart,unit + fill color – numerical (Quantity)
+1324,pictogram数据集569张,TIM截图20200522163625.png,area,area - numerical (quantity)
+1325,pictogram数据集569张,TIM截图20200522163631.png,bar chart,unit + fill color – numerical (Quantity)
+1326,pictogram数据集569张,TIM截图20200522163637.png,bar chart,unit + fill color – numerical (Quantity)
+1327,pictogram数据集569张,TIM截图20200522163643.png,bar chart,unit + fill color – numerical (Quantity)
+1328,pictogram数据集569张,TIM截图20200522163649.png,bar chart,unit + fill color – numerical (Quantity)
+1329,pictogram数据集569张,TIM截图20200522163703.png,bar chart,unit + fill color – numerical (Quantity)
+1330,pictogram数据集569张,TIM截图20200522163720.png,bar chart,height - numerical (quantity)
+1331,pictogram数据集569张,TIM截图20200522163728.png,bar chart,unit + fill color – numerical (Quantity)
+1332,pictogram数据集569张,TIM截图20200522163734.png,bar chart,unit + fill color – numerical (Quantity)
+1333,pictogram数据集569张,TIM截图20200522163741.png,bar chart,unit + fill color – numerical (Quantity)
+1334,pictogram数据集569张,TIM截图20200522163749.png,bar chart,unit + fill color – numerical (Quantity)
+1335,pictogram数据集569张,TIM截图20200522163833.png,bar chart,unit + fill color – numerical (Quantity)
+1336,pictogram数据集569张,TIM截图20200522163841.png,bar chart,height - numerical (quantity)
+1337,pictogram数据集569张,TIM截图20200522163848.png,bar chart,unit + fill color – numerical (Quantity)
+1338,pictogram数据集569张,TIM截图20200522163853.png,bar chart,unit + fill color – numerical (Quantity)
+1339,pictogram数据集569张,TIM截图20200522163859.png,bar chart,unit + fill color – numerical (Quantity)
+1340,pictogram数据集569张,TIM截图20200522163905.png,bar chart,unit + fill color – numerical (Quantity)
+1341,pictogram数据集569张,TIM截图20200522163910.png,bar chart,unit + fill color – numerical (Quantity)
+1342,pictogram数据集569张,TIM截图20200522163915.png,bar chart,unit + fill color – numerical (Quantity)
+1343,pictogram数据集569张,TIM截图20200522163920.png,bar chart,unit + fill color – numerical (Quantity)
+1344,pictogram数据集569张,TIM截图20200522163927.png,bar chart,unit + fill color – numerical (Quantity)
+1345,pictogram数据集569张,TIM截图20200522163932.png,bar chart,unit + fill color – numerical (Quantity)
+1346,pictogram数据集569张,TIM截图20200522163936.png,bar chart,unit + fill color – numerical (Quantity)
+1347,pictogram数据集569张,TIM截图20200522163944.png,bar chart,unit + fill color – numerical (Quantity)
+1348,pictogram数据集569张,TIM截图20200522163950.png,bar chart,unit + fill color – numerical (Quantity)
+1349,pictogram数据集569张,TIM截图20200522163955.png,bar chart,unit + fill color – numerical (Quantity)
+1350,pictogram数据集569张,TIM截图20200522163959.png,bar chart,unit + fill color – numerical (Quantity)
+1351,pictogram数据集569张,TIM截图20200522164003.png,bar chart,unit + fill color – numerical (Quantity)
+1352,pictogram数据集569张,TIM截图20200522164012.png,bar chart,height - numerical (quantity)
+1353,pictogram数据集569张,TIM截图20200522164016.png,bar chart,unit + fill color – numerical (Quantity)
+1354,pictogram数据集569张,TIM截图20200522164022.png,bar chart,unit + fill color – numerical (Quantity)
+1355,pictogram数据集569张,TIM截图20200522164026.png,bar chart,unit + fill color – numerical (Quantity)
+1356,pictogram数据集569张,TIM截图20200522164030.png,bar chart,unit + fill color – numerical (Quantity)
+1357,pictogram数据集569张,TIM截图20200522164034.png,bar chart,unit + fill color – numerical (Quantity)
+1358,pictogram数据集569张,TIM截图20200522164038.png,bar chart,unit + fill color – numerical (Quantity)
+1359,pictogram数据集569张,visualoop1523.jpg,tree and graph,semantics – categorical
+1360,pictogram数据集569张,visualoop1680.jpg,grid and matrix,semantics – categorical
+1361,pictogram数据集569张,visualoop2216.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+1362,pictogram数据集569张,visualoop995.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+1363,pictogram数据集569张,下载 (1).png,block chart,unit + fill color – numerical (Quantity) +categorical
+1364,pictogram数据集569张,下载.png,bar chart,height - numerical (quantity)
+1365,pictogram数据集569张,微信图片_20200624151334.jpg,block chart,unit + fill color – numerical (percentage)
+1366,pictogram数据集569张,新文档 2020-02-26 12.55.35.jpg,block chart,unit + fill color – numerical (Quantity)
+1367,pictogram数据集569张,新文档 2020-02-26 12.55.35_2.jpg,block chart,unit + fill color – numerical (Quantity)
+1368,pictogram数据集569张,新文档 2020-02-26 12.55.35_3.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+1369,pictogram数据集569张,新文档 2020-02-26 12.55.35_4.jpg,block chart,unit + fill color – numerical (Quantity) +categorical
+1370,pictogram数据集569张,新文档 2020-02-26 12.55.35_6.jpg,block chart,unit + fill color – numerical (Quantity)
+1371,pictogram数据集569张,横向填充.png,block chart,unit + fill color – numerical (percentage)

@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>List of Pictograph</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Interactive List of Anthropographics. It's a collection of data visualizations that represent people.">
+    <meta name="keywords" content="anthropographics, anthropographic, data visualization, visualization, physicalization, infovis, visualization about people, empathy, compassion, vis, ieee, chi, luiz morais">
+
+    <!-- Load styles and modules -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/lib/d3.min.js"></script>
+    <script src="js/lib/jquery.min.js"></script>
+    <script src="js/lib/bootstrap.min.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="modal fade" id="visualization-modal" tabindex="-1" role="dialog" aria-labelledby="visualization-title" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <!-- <h5 class="modal-title" id=visualization-title></h5> -->
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          </div>
+          <div class="modal-body">
+            <img id="visualization-image">
+            <p class="float-right mt-3" id="visualization-dimensions"></p>
+          </div>
+          <div class="modal-footer">
+            <!-- <p class="text-muted">
+              Author(s) / Source: <a id="visualization-website" target="_blank"></a>
+            </p> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <main class="container"> 
+      <!-- <header class="bg-white sticky-top d-none d-md-block">
+        <a href="http://luizaugustomm.github.io"><i class="fa fa-home"></i> Go to Homepage</a>
+      </header> -->
+      <header class="row mt-4">
+        <div class="col">
+          <h1>List of Pictograph</h1>
+          <h4 class="text-muted">A collection of pictographs distinguished by visualization types and data binding types</h4>
+        </div>
+      </header>
+      <!-- <section class="row mt-4 mb-3">
+        <div class="col text-center">
+          <div class="btn-group btn-group-toggle" data-toggle="buttons">
+            <label class="btn btn-light active">
+              <input type="radio" name="options" id="option-dimensions" autocomplete="off" checked> data binding
+            </label>
+            <label class="btn btn-light">
+              <input type="radio" name="options" id="option-families" autocomplete="off"> visualization type
+            </label>
+          </div>
+        </div>
+      </section> -->
+      <section class="row filters-box" id="filters">
+        <div class="col">
+          <div class="row">
+            <div class="col">
+              <h3 class="small font-weight-bold">Visualization Types</h3>
+              <div class="form-check">
+                <input class="form-check-input filter filter-bar" type="checkbox" value="bar chart" checked>
+                <label class="form-check-label">
+                  bar chart
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-circle" type="checkbox" value="circle" checked>
+                <label class="form-check-label">
+                  circle
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-line" type="checkbox" value="line chart" checked>
+                <label class="form-check-label">
+                  line chart
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-block" type="checkbox" value="block chart" checked>
+                <label class="form-check-label">
+                  block chart
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-number" type="checkbox" value="number" checked>
+                <label class="form-check-label">
+                  number
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-area" type="checkbox" value="area" checked>
+                <label class="form-check-label">
+                  area
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-map" type="checkbox" value="map" checked>
+                <label class="form-check-label">
+                  map
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-point" type="checkbox" value="point" checked>
+                <label class="form-check-label">
+                  point
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-tree" type="checkbox" value="tree and graph" checked>
+                <label class="form-check-label">
+                  tree and graph
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-grid" type="checkbox" value="grid and matrix" checked>
+                <label class="form-check-label">
+                  grid and matrix
+                </label>
+              </div>
+            </div>
+            <div class="col">
+              <h3 class="small font-weight-bold">Data Binding Types</h3>
+              <div class="form-check">
+                <input class="form-check-input filter filter-scale" type="checkbox" value="area - numerical (quantity)" checked>
+                <label class="form-check-label">
+                  scale - numerical (quantity)
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-semantics" type="checkbox" value="semantics – categorical" checked>
+                <label class="form-check-label">
+                  semantics – categorical
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-heightColor" type="checkbox" value="height + fill color - numerical (percentage)" checked>
+                <label class="form-check-label">
+                  height + fill color - numerical (percentage)
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-height" type="checkbox" value="height - numerical (quantity)" checked>
+                <label class="form-check-label">
+                  height - numerical (quantity)
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-unitQuantity" type="checkbox" value="unit + fill color – numerical (Quantity)" checked>
+                <label class="form-check-label">
+                  unit + fill color – numerical (Quantity)
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-unitPercentage" type="checkbox" value="unit + fill color – numerical (percentage)" checked>
+                <label class="form-check-label">
+                  unit + fill color – numerical (percentage)
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filter filter-unitCategorical" type="checkbox" value="unit + fill color – numerical (Quantity) +categorical" checked>
+                <label class="form-check-label">
+                  unit + fill color – numerical (Quantity) +categorical
+                </label>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <input class="btn btn-dark btn-sm" type="button" id="reset-button" name="reset-filters" value="Reset filters">
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- <section class="row" id="families" style="display:none">
+        <div class="col">
+          <div class="row">
+            <select class="custom-select mr-sm-2" id="family">
+              <option value="no-family" selected>Choose family...</option>
+              <optgroup label="Non-Anthropomorphic Designs">
+                <option value="statistical-charts">Statistical charts</option>
+                <option value="simple-unit">Information-poor unit charts</option>
+                <option value="complex-unit">Information-rich unit charts</option>
+              </optgroup>
+              <optgroup label="Anthropomorphic Designs">
+                <option value="proportional-wee">Proportional wee-people charts</option>
+                <option value="individual-wee">Unit wee-people charts</option>
+                <option value="face-charts">Face charts</option>
+              </optgroup>
+              <optgroup label="Atypical Designs">
+                <option value="embellished-charts">Embellished charts</option>
+                <option value="single-person">Single-person charts</option>
+                <option value="example-driven">Example-driven charts</option>
+                <option value="situated-vis">Situated visualizations</option>
+                <option value="physicalizations">Physicalizations</option>
+              </optgroup>
+            </select>
+          </div>
+          <div class="row filters-box">
+            <div class="col">
+              <h3 class="small font-weight-bold">GRANULARITY</h3>
+              <ul class="dimension-values">
+                <li id="granularity-low">Low</li>
+                <li id="granularity-intermediate">Intermediate</li>
+                <li id="granularity-maximum">Maximum</li>
+              </ul>
+            </div>
+            <div class="col">
+              <h3 class="small font-weight-bold">SPECIFICITY</h3>
+              <ul class="dimension-values">
+                <li id="specificity-low">Low</li>
+                <li id="specificity-intermediate">Intermediate</li>
+                <li id="specificity-high">High</li>
+              </ul>
+            </div>
+            <div class="col">
+              <h3 class="small font-weight-bold">COVERAGE</h3>
+              <ul class="dimension-values">
+                <li id="coverage-minimum">Minimum</li>
+                <li id="coverage-partial">Partial</li>
+                <li id="coverage-full">Full</li>
+              </ul>
+            </div>
+            <div class="col">
+              <h3 class="small font-weight-bold">AUTHENTICITY</h3>
+              <ul class="dimension-values">
+                <li id="authenticity-partial">Partial</li>
+                <li id="authenticity-full">Full</li>
+              </ul>
+            </div>
+            <div class="col">
+              <h3 class="small font-weight-bold">REALISM</h3>
+              <ul class="dimension-values">
+                <li id="realism-low">Low</li>
+                <li id="realism-intermediate">Intermediate</li>
+                <li id="realism-high">High</li>
+              </ul>
+            </div>
+            <div class="col">
+              <h3 class="small font-weight-bold">PHYSICALITY</h3>
+              <ul class="dimension-values">
+                <li id="physicality-low">Low</li>
+                <li id="physicality-intermediate">Intermediate</li>
+                <li id="physicality-maximum">Maximum</li>
+              </ul>
+            </div>
+            <div class="col">
+              <h3 class="small font-weight-bold">SITUATEDNESS</h3>
+              <ul class="dimension-values mb-0">
+                <li id="situatedness-low">Low</li>
+                <li id="situatedness-intermediate">Intermediate</li>
+                <li id="situatedness-high">High</li>
+                <li id="situatedness-maximum">Maximum</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section> -->
+      <section class="row">
+        <div class="col mb-3"><h5 id="summary">Loading...</h5></div>
+      </section>
+      <section class="row" id="cards"></section>
+    </main>
+    <script src="js/interface.js" type="module" charset="utf-8"></script>
+    <script src="js/main.js" type="module" charset="utf-8"></script>
+  </body>
+</html>
