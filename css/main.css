@@ -62,3 +62,20 @@
   border: 2px solid #007bff;
   border-radius: 5px;
 }
+
+.btn.btn-dark.btn-sm {
+  background: rgb(0,117,255);
+  border: none;
+  border-radius: 10px;
+  width: 150px;
+  margin-top: 20px;
+}
+
+.small, small {
+  font-size: 100%;
+  font-weight: 400;
+}
+
+.h4, h4 {
+  font-size: 1.2rem;
+}

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>List of Pictograph</title>
+    <title>Pictographs Dataset</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -45,8 +45,8 @@
       </header> -->
       <header class="row mt-4">
         <div class="col">
-          <h1>List of Pictograph</h1>
-          <h4 class="text-muted">A collection of pictographs distinguished by visualization types and data binding types</h4>
+          <h1>Pictographs Dataset</h1>
+          <h4 class="text-muted">We collected a dataset of high-quality pictographs to identify common design patterns that depict the data content of a pictograph. These patterns are described along two dimensions, namely, visualization types and data binding types.</h4>
         </div>
       </header>
       <!-- <section class="row mt-4 mb-3">
@@ -130,54 +130,59 @@
             <div class="col">
               <h3 class="small font-weight-bold">Data Binding Types</h3>
               <div class="form-check">
-                <input class="form-check-input filter filter-scale" type="checkbox" value="area - numerical (quantity)" checked>
+                <input class="form-check-input filter filter-semantics" type="checkbox" value="semantics (combined with color) to category" checked>
                 <label class="form-check-label">
-                  scale - numerical (quantity)
+                  semantics (combined with color) to category
                 </label>
               </div>
               <div class="form-check">
-                <input class="form-check-input filter filter-semantics" type="checkbox" value="semantics – categorical" checked>
+                <input class="form-check-input filter filter-scale" type="checkbox" value="area to quantity" checked>
                 <label class="form-check-label">
-                  semantics – categorical
+                  area to quantity
                 </label>
               </div>
               <div class="form-check">
-                <input class="form-check-input filter filter-heightColor" type="checkbox" value="height + fill color - numerical (percentage)" checked>
+                <input class="form-check-input filter filter-height" type="checkbox" value="height to quantity" checked>
                 <label class="form-check-label">
-                  height + fill color - numerical (percentage)
+                  height to quantity
                 </label>
               </div>
               <div class="form-check">
-                <input class="form-check-input filter filter-height" type="checkbox" value="height - numerical (quantity)" checked>
+                <input class="form-check-input filter filter-heightColor" type="checkbox" value="height filled with color to proportion" checked>
                 <label class="form-check-label">
-                  height - numerical (quantity)
+                  height filled with color to proportion
                 </label>
               </div>
               <div class="form-check">
-                <input class="form-check-input filter filter-unitQuantity" type="checkbox" value="unit + fill color – numerical (Quantity)" checked>
+                <input class="form-check-input filter filter-unitQuantity" type="checkbox" value="unit to quantity" checked>
                 <label class="form-check-label">
-                  unit + fill color – numerical (Quantity)
+                  unit to quantity
                 </label>
               </div>
               <div class="form-check">
-                <input class="form-check-input filter filter-unitPercentage" type="checkbox" value="unit + fill color – numerical (percentage)" checked>
+                <input class="form-check-input filter filter-unitPercentage" type="checkbox" value="unit to proportion" checked>
                 <label class="form-check-label">
-                  unit + fill color – numerical (percentage)
+                  unit to proportion
                 </label>
               </div>
               <div class="form-check">
-                <input class="form-check-input filter filter-unitCategorical" type="checkbox" value="unit + fill color – numerical (Quantity) +categorical" checked>
+                <input class="form-check-input filter filter-unitCategorical" type="checkbox" value="unit filled with color to proportion" checked>
                 <label class="form-check-label">
-                  unit + fill color – numerical (Quantity) +categorical
+                  unit filled with color to proportion
                 </label>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <input class="btn btn-dark btn-sm" type="button" id="reset-button" name="reset-filters" value="Reset filters">
+                </div>
               </div>
             </div>
           </div>
-          <div class="row">
+          <!-- <div class="row">
             <div class="col">
               <input class="btn btn-dark btn-sm" type="button" id="reset-button" name="reset-filters" value="Reset filters">
             </div>
-          </div>
+          </div> -->
         </div>
       </section>
       <!-- <section class="row" id="families" style="display:none">
